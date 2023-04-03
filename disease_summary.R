@@ -132,8 +132,67 @@ for (i in 1:nrow(rawData)){
   }
 }
 
+rawData$Drug <- unlist(rawData$Drug)
+rawData$Disease <- unlist(rawData$Disease)
+rawData$Tissue <- unlist(rawData$Tissue)
 
+# Export data to NewData
+write_xlsx(rawData, "NewData.xlsx")
 
+# draw a pie chart for arthritis
+# Create a data frame with treatment approaches and their percentages
+treatment_data <- data.frame(
+  Treatment = c("DMARDs", "Anti-TNF drugs", "Other targeted therapies"),
+  Percentage = c(45, 35, 20)
+)
 
+# Create a pie chart using ggplot2
+treatment_data_ra <- data.frame(
+  Treatment = c("DMARDs", "Anti-TNF drugs", "Other targeted therapies"),
+  Percentage = c(45, 35, 20)
+)
+pie_chart <- ggplot(treatment_data_ra, aes(x = "", y = Percentage, fill = Treatment)) +
+  geom_bar(width = 1, stat = "identity") +
+  coord_polar("y", start = 0) +
+  theme_void() +
+  theme(legend.position = "bottom") +
+  labs(title = "Rheumatoid Arthritis Treatment Approaches") +
+  scale_fill_brewer(palette = "Set1", name = "Treatment Approaches") +
+  geom_text(aes(label = paste0(Percentage, "%")),
+            position = position_stack(vjust = 0.5),
+            color = "white",
+            size = 4)
 
- 
+# Display the pie chart
+print(pie_chart)
+
+# check what kind of drugs are used for each disease
+br_drug = list()
+for (i in 1:nrow(rawData)){
+  if (grepl(br_string, rawData$Disease[i], ignore.case = TRUE)) {
+    br_drug <- br_drug%>%append(rawData$Drug[i])
+  }
+}
+
+# platform
+# Assuming you already have the platform_counts from the previous code
+platform_counts_df <- as.data.frame(platform_counts)
+colnames(platform_counts_df) <- c("platform", "count")
+
+# Sort the data frame by count in descending order and select the top half
+sorted_platform_counts_df <- platform_counts_df[order(-platform_counts_df$count),]
+top_third_platform_counts_df <- sorted_platform_counts_df[1:(nrow(sorted_platform_counts_df) %/% 3),]
+
+# Create a fancy bar plot using ggplot2 with only the top half platforms
+ggplot(top_third_platform_counts_df, aes(x = reorder(platform, -count), y = count, fill = platform)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(title = "Top Third Platform Counts",
+       x = "Platform",
+       y = "Frequency") +
+  guides(fill = FALSE)
+
+# Sample first, second, third, fourth quatiles
+abnormal = rawData[-5,]
+summary(abnormal$Sample)
