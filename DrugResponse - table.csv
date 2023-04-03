@@ -1,0 +1,679 @@
+Series_Accession,Platform,Platform_Description,Sample,Drug,Disease,Tissue,PMID,Download,file_path,normalized
+GSE97810,GPL10904,Illumina HumanHT-12 V4.0 expression beadchip (gene symbol),1068,Hepatitis B vaccine,Rheumatoid arthritis ,Whole Blood; PBMC; CD4; CD8; CD14,35534493,Yes,,
+GSE183534,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),1055,TeraTox(assay),teratogenicity,hiPSC-derived embryoid bodies (EBs),35485993,No,,
+GSE155771,GPL16791,Illumina HiSeq 2500 (Homo sapiens),759,,liver disease,HLCs; hiPSC; primary human hepatocytes (PHH); HepG2 liver cancer cells,33545341,,,
+GSE186102,GPL30877,Nanostring nCounter human ELEMENTS TAGSETS,473,Eribulin,Breast cancer,SCR; 2W; SUR,34824288,Yes,,
+GSE152004,GPL11154,Illumina HiSeq 2000 (Homo sapiens),695,,"COVID-19; Type 2-High Asthma
+",nasal airway epithelium,33046696; 35347136,,,
+GSE93777,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,448,DMARDs(methotrexate; infliximab; and tocilizumab),rheumatoid arthritis,whole-blood transcriptome; serum proteome; peripheral cell counts,30013029,Yes,,
+GSE119291,GPL16791,Illumina HiSeq 2500 (Homo sapiens),5718,135 drugs,schizophrenia,neural progenitor cells; cancer cell lines,30356048,Yes,,
+GSE222593,GPL16791; GPL20301,"Illumina HiSeq 2500 (Homo sapiens); Illumina HiSeq 4000 (Homo sapiens)
+",355,Omeprazole; Phenobarbital; Dexamethasone; Carbamazepine; Phenytoin; Rifampicine,health disparities in disease,RNA samples from cultured liver hepatocytes,,Yes,,
+GSE20685,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,327,adjuvant chemotherapy; methotrexate,Breast cancer,breast cancer tissue,21501481,Yes,,
+GSE158765,GPL20301,Illumina HiSeq 4000 (Homo sapiens),324,Aspirin ,Antiplatelet exposures,platelet,34705291,Yes,,
+GSE138746,GPL20301,Illumina HiSeq 4000 (Homo sapiens),240,adalimumab (ADA); etanercept (ETN),rheumatoid arthritis,PBMCs; monocytes; CD4+ T cells,32909363,Yes,,
+GSE150734,GPL19886,NanoString Prognostic Liver Signature (PLS) panel (186 genes; ver.1),309,epigallocatechin gallate; cenicriviroc(combining PPARalpha agonism),HCV; NAFLD,clinical liver tissues,34951993,,,
+GSE149050,GPL16791,Illumina HiSeq 2500 (Homo sapiens),288,belimumab,Systemic lupus erythematosus (SLE),patients blood,33674349,,,
+GSE149428,GPL16791,Illumina HiSeq 2500,282,LINCS drug combination dataset(especially tamoxifen and mefloquine),breast cancer; prostate cancer,breast cance cell line; prostate cancer cell line,32945258,,,
+GSE51068,GPL13667,[HG-U219] Affymetrix Human Genome U219 Array,282,14 drug compounds,Lymphoma cancer,Diffuse Large B-Cell Lymphoma (DLBCL) OCI-LY3 cell line,,,,
+GSE93272,GPL16791,Illumina HiSeq 2500 (Homo sapiens),266,Synthetic glucocorticoid DEX,PTSD,hiPSC-derived glutamatergic neuron; PBMCs,36266471,,,
+GSE66843,GPL10558; GPL17230; GPL18573; GPL19886; GPL20084; GPL21697; GPL21805,Illumina HumanHT-12 V4.0 expression beadchip (gene symbol),265,nizatidine,Chronic liver disease; hepatocellular carcinoma,liver tissues,34535664,,,
+GSE159721,GPL20795,HiSeq X Ten (Homo sapiens),246,,ACGEJ,123 pairs of tumor and adjacent normal tissue samples,,,,
+GSE123845,GPL16791,Illumina HiSeq 2500 (Homo sapiens),227,NAC treatment,breat cancer,110 pairs of serial tumor biopsies,33268821,,,
+GSE20119,GPL9960; GPL9962        ,"MRC Human IIR 0.2K v1; MRC Human IIR 37 v1
+",224,peginterferon(IFN),Chronic hepatitis C,liver biopsy specimen,21603632,,,
+GSE32036,GPL6884; GPL10558,"Illumina HumanWG-6 v3.0 expression beadchip; Illumina HumanHT-12 V4.0 expression beadchip
+",222,sorafenib monotherapy,non-small-cell lung cancer,Lung biopsy ,23091115; 24618618; 32512502,,,
+GSE69405,GPL16791,Illumina HiSeq 2500 (Homo sapiens),208,a panel of 25 anti-cancer agents,lung adenocarcinoma,PDX cells,26084335,,,
+GSE130788,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),199,Neoadjuvant Trastuzumab; Lapatinib; Combination of Trastuzumab and Lapatinib; Docetaxel; Carboplatin with Trastuzumab; Lapatinib,HER2+ Breast Cancer,tumor biopsies,33951110,,,
+GSE89401,GPL13534; GPL16131; GPL17586,Illumina HumanMethylation450 BeadChip (HumanMethylation450_15017482); [CytoScanHD_Array] Affymetrix CytoScan HD Array; [HTA-2_0] Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],199,Drug and Radiation Response,glioblastoma multiforme(GBM),libraries of glioma-initiating cell (GIC) clones,27974212,,,
+GSE111015,GPL20301,Illumina HiSeq 4000 (Homo sapiens),188,ibrutinib,Chronic lymphocytic leukemia,primary immune cell; peripheral blood mononuclear cells,31996669,,,
+GSE85333,GPL22299,[HuGene-2_1-st] Affymetrix Human Gene 2.1 ST Array [gene name version],185,escitalopram; nortriptyline; indomethacin; prednisolone; anti-TNFα antibody,depression,primary human monocyte derived macrophages,29377288,,,
+GSE166181,GPL21697,NextSeq 550 (Homo sapiens),183,Immune checkpoint inhibitors,Metastatic melanoma,Peripheral CD8 T cells,33723257,,,
+GSE68453,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,180,PLX4720 (targeted inhibitor of mutated BRAF); lapatinib (inhibitor of the ERBB family of receptor tyrosine kinases),cutaneous melanomas,a panel of 12 treatment-naïve BRAFV600E mutant melanoma cell lines,26673621,,,
+GSE39754,GPL5175,[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [transcript (gene) version],176,Bortezomib; P5091; lenalidomide; HDAC inhibitor SAHA; dexamethasone,,multiple myeloma (MM) cells.,22975377,,,
+GSE7851,GPL13158,[HT_HG-U133_Plus_PM] Affymetrix HT HG-U133+ PM Array Plate,170,intramuscular IFN-β1a (Avonex®),RRMS/CIS,Whole blood,,,,
+GSE10255,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,161,Methotrexate,acute lymphoblastic leukemia (ALL),bone marrow,18416598,,,
+GSE182060,GPL30511,NanoString Prognostic Liver Signature (PLS) plus ELS panel (186-gene PLS + 10-gene extension),156,cenicriviroc,HCV; NAFLD,Liver bioosy,34951993,,,
+GSE3578,"	
+GPL2895",GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,156,cisplatin with radiotherapy; radiotherapy,Cervical cancer,biopsy sample,17582213,,,
+GSE193695,GPL18460,Illumina HiSeq 1500 (Homo sapiens),148,Lenalidomide; ixazomib (proteasome inhibitor),Multiple myeloma (MM),Bone marrow cells,35992084,,,
+GSE120178,GPL16791,Illumina HiSeq 2500 (Homo sapiens),147,golimumab and mavrilimumab,rheumatoid arthritis,peripheral blood,30358109,,,
+GSE89399,GPL17586,[HTA-2_0] Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],146,KIT inhibitor and lysine-specific demethylase 1 (LSD1) inhibitor,KIT mutant acute myeloid leukemia (AML),AML cell lines and primary patient samples,35590033,,,
+GSE143272,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,142,Antiepileptic drugs,epilepsy,peripheral blood samples,30826443; 32054883,,,
+GSE45757,GPL571,[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array,141,MEK1/2 inhibition,pancreatic cancer,pancreatic cancer cell lines,22833572,,,
+GSE70503,GPL11154,Illumina HiSeq 2000 (Homo sapiens),139,389 pharmacogenes,,liver; kidney; heart; adipose tissue; and lymphoblastoid cell lines,26856248,,,
+GSE65221,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,136,,insulin resistance,Subcutaneous adipose tissue,25868721,,,
+GSE31348,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,135,antituberculosis drugs,tuberculosis,whole blood,22872737,,,
+GSE16879,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,133,infliximab,inflammatory bowel disease,Mucosal biopsies,19956723,,,
+GSE33072,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],131,EGFR inhibitors and PI3K/Akt pathway inhibitors,Non-small cell lung cancer (NSCLC),Epithelial and mesenchymal cell lines and NSCLC patient samples,23091115,,,
+GSE37892,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,127,TSLP pathway blockade,asthma,BAL fluid samples,23810153,,,
+GSE130633,GPL18573,Illumina NextSeq 500 (Homo sapiens),126,losmapimod,immunity of aged people,Skin,,,,
+GSE143897,GPL16791,Illumina HiSeq 2500 (Homo sapiens),123,neoadjuvant chemotherapy,HGSOC,Tumor tissue; ascites cells,35031546,,,
+GSE185908,GPL20301,Illumina HiSeq 4000 (Homo sapiens),120,Hydrocortisone; CORT108297,,B-lymphoblastoid cell lines (LCLs),36399508,,,
+GSE108277,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,120,Cetuximab or panitumumab (both monoclonal antibodies that block EGFR),Metastatic colorectal cancer (mCRC),Patient-derived xenografts (PDXs) from mCRC,GPL10558,,,
+GSE412,GPL8300,"Affymetrix Human Genome U95 Version 2 Array",120,methotrexate and mercaptopurine,acute lymphoblastic leukemia,lymphoid leukemia cells,12704389; 20981007,,,
+GSE32862,GPL6883,Illumina HumanRef-8 v3.0 expression beadchip,119,Poly ICLC,Not applicable (this is a study on the immune response to a synthetic double-stranded RNA),Human blood,22065672,,,
+GSE5462,GPL96,Affymetrix Human Genome U133A Array,116,Letrozole (Femara),Breast cancer,biopsies ,20646288,,,
+GDS3116,GPL96,Affymetrix Human Genome U133A Array,116,Letrozole (Femara),Breast cancer,Breast cancer tumors,17885619; 20646288,,,
+GSE183984,GPL16791,Illumina HiSeq 2500 (Homo sapiens),113,Cetuximab,Colon cancer,Formalin-fixed paraffin-embedded (FFPE) tumor tissue,34779495; 35102212,,,
+GSE199452,GPL11154,Illumina HiSeq 2000 (Homo sapiens),111,Not applicable (study focused on AML hierarchy composition and drug sensitivity profiling),Acute myeloid leukemia (AML),AML fractions sorted based on CD34 and CD38,35618837,,,
+GSE112608,GPL18573;GPL19132	,Illumina NextSeq 500 (Homo sapiens; Drosophila melanogaster),111,KL-1 and KL-2,MYC-induced cancer,Drosophila and human cells,30340042,,,
+GSE130786,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),110,Trastuzumab; Lapatinib; Docetaxel; Carboplatin,HER2+ Breast Cancer,Breast,31067505,,,
+GSE67255,GPL6244,Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],108,Hydrocortisone,,Blood,26972611,,,
+GSE23991,GPL6104,Illumina humanRef-8 v2.0 expression beadchip,108,zebularine,human liver cancer,liver,20962331,,,
+GSE6630,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,108,Carbon beams (C-ions),Malignant melanoma,Human melanoma cell lines,18386195,,,
+GSE99680,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",107,,Breast cancer,Normal human primary breast epithelial cells and primary breast tumors,31110002,,,
+GSE70461,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",107,,Preterm infants,Blood,28259955,,,
+GSE58377,GPL15520; GPL16791	,Illumina MiSeq (Homo sapiens); Illumina HiSeq 2500 (Homo sapiens),107,Smoothened (SMO) inhibitors,advanced basal cell carcinoma (BCC),,25759020,,,
+GSE37199,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",107,,Prostate cancer,Whole blood,23059046,,,
+GSE105083,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",104,CM03,Pancreatic ductal adenocarcinoma (PDAC),,29356532,,,
+GSE12062,GPL4348,CRUKDMF_22K_v1.0.0,104,ES-285,Solid tumors,Blood and skin biopsies,19509256,,,
+GSE63782,GPL11154; GPL13112; GPL16791,Illumina HiSeq 2000 (Homo sapiens; Mus musculus; Homo sapiens),103,JQ1,Leukemia,Cancer cell lines; leukemia cell line,26367798,,,
+GSE165611,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),102,Alpelisib; cell cycle inhibitors; XAV939,Advanced or refractory lung cancer,Lung cancer patient-derived cells,36717865,,,
+GSE107894,GPL16791,Illumina HiSeq 2500 (Homo sapiens),100,Metformin,Aging; impaired glucose tolerance,Skeletal muscle and subcutaneous adipose tissue,29383869,,,
+GSE29998,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",99,,Gastric adenocarcinoma (gastric cancer),Gastric (stomach) tissue,21781349,,,
+GSE206741,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",96,,,,,,,
+GSE123285,GPL20301,Illumina HiSeq 4000 (Homo sapiens),96,Fulvestrant; 4-HydroxyTamoxifen; and JQ1 (all are used for the treatment of breast cancer),Breast cancer,MCF7 cells (breast cancer cell line),31913353,,,
+GSE180210,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",96,SCH772984 (an ERK inhibitor),,RPE cells (Retinal Pigment Epithelial cells),,,,
+GSE54254,GPL13158,"Affymetrix HT HG-U133+ PM Array Plate",96,Diclofenac and carbamazepine (both are hepatotoxic drugs),Drug-induced liver injury (DILI),HepG2 cells (human hepatoma cells),24752500,,,
+GSE221868,GPL30173; GPL32628,NextSeq 2000 (Homo sapiens; synthetic construct),94,Risdiplam and branaplam (both are splice-modifying drugs),Spinal muscular atrophy,HeLa cells (cervical cancer cell line) and synthetic constructs,,,,
+GSE225740,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",93,,Nonalcoholic fatty liver disease (NAFLD),Liver,36927865,,,
+GSE132195,GPL21290,"Illumina HiSeq 3000 (Homo sapiens)",93,biologic therapy for psoriasis,psoriasis,psoriatic plaques,31715177,,,
+GSE64123,GPL15798	,"Affymetrix HT HG-U133+ PM Array Plate",93,Valproic acid (VPA) and carbamazepine (CBZ),Neurodevelopmental toxicity,Human embryonic stem cells (hESC),25979313,,,
+GSE14618,GPL96; GPL570,Affymetrix Human Genome U133A Array & U133 Plus 2.0 Array,92,,T-cell acute lymphoblastic leukemia (T-ALL),Blood,17495134,,,
+GSE196434,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",91,BRAF inhibitors or BRAF and MEK inhibitors.,Melanoma,Metastases from melanoma lesions,35643181,,,
+GSE24943,GPL9700	,"SFGF HEEBO Human Set v1.00 with custom orthopox oligos",91,Recombinant nematode anticoagulant protein c2 (rNAPc2) and recombinant human activated protein C (rhAPC),Zaire Ebola Virus (ZEBOV)-infected rhesus macaques,Blood (PBMCs),21987740,,,
+GSE6213,GPL2895	,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,90,,Cervical cancer,Uterine cervix tumors,,,,
+GSE46581,GPL8432,"Illumina HumanRef-8 WG-DASL v3.0",90,,Triple negative breast cancer,Breast cancer tissue samples,24260093,,,
+GSE136929,GPL11154; GPL20795; GPL24676	,"Illumina HiSeq 2000 (Homo sapiens); HiSeq X Ten (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens)
+",89,SYK inhibitors,Retinoblastoma,Retinal organoids,33318192,,,
+GSE130787,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),89,Trastuzumab or lapatinib or the combination of trastuzumab and lapatinib; followed by docetaxel and carboplatin with trastuzumab and/or lapatinib,HER2+ breast cancer,breast,33951110,,,
+GSE11903,GPL571,Affymetrix Human Genome U133A 2.0 Array,89,Etanercept,Psoriasis vulgaris,Lesional and non-lesional skin,19895991,,,
+GSE93984,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",88,Ibrutinib and ABT-199,Diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL),Tumor biopsy samples,28428442,,,
+GSE194249,GPL31265,"Hiseq X ten (Homo sapiens)",87,,Human pancreatic cancer,Pancreatic cancer organoids,,,,
+GSE161801,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",87,,Relapsed/refractory multiple myeloma,Bone marrow,34845188,,,
+GSE64460,GPL11154; GPL13112,Illumina HiSeq 2000 (Homo sapiens; Mus musculus),86,TZD drugs (thiazolidinediones); anti-diabetic drugs that activate PPARγ,Dysmetabolic traits; metabolic syndrome,Adipose tissue; human fat,21854987,,,
+GSE14797,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,86,,Colorectal adenomas,Colon,19470793,,,
+GSE173574,GPL18573; GPL19057,Illumina NextSeq 500 (Homo sapiens; Mus musculus),84,dTAG-13; dTAG-VHL; EPZ-5676; VTP-50469; DOT1L; MENIN,,murine and human cells; murine neutrophils,,,,
+GSE141333,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",84,Ibrutinib,Mantle cell lymphoma,,33730585,,,
+GSE114686,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",84,Erlotinib; Lapatinib; Sorafenib; and Sunitinib, (study focused on defining molecular markers of tyrosine kinase inhibitor-induced cardiotoxicity),Human induced pluripotent stem cell-derived cardiomyocytes,31078528,,,
+GSE1647,GPL550,"UNC compugen oligo array for toxgenomics study",83,doxorubicin; 5-fluorouracil; etoposide,breast cancer,breast cell lines,15598611,,,
+GDS1627,GPL550,UNC compugen oligo array for toxgenomics study,83,Doxorubicin; 5-Fluorouracil (5FU); Etoposide,Breast cancer,Breast cell lines (derived from basal-like and luminal epithelium),15598611,,,
+GSE77039,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",82,GW3965 and rosiglitazone,Colorectal cancer,HT29 cells,27401066,,,
+GSE65297,GPL16025,NimbleGen Homo sapiens Expression Array,82,Sodium valproate (VPA) and Suberoylanilide hydroxamic acid (SAHA),,AH LCL cells and GM12878 cells,,,,
+GSE29868,GPL570v,Affymetrix Human Genome U133 Plus 2.0 Array,59,TPA (phorbol-12-myristate-13-acetate) and KL (K252a),Epidermal progenitor maintenance,Skin,35906225,,,
+GSE21138,GPL570v,"Affymetrix Human Genome U133 Plus 2.0 Array",59,,Schizophrenia,Prefrontal cortex (BA46),18778695,,,
+GSE145325,GPL21290	,Illumina HiSeq 3000 (Homo sapiens),58,letrozole,ER+ breast cancer,breast tumor,33127913,,,
+GSE30161,GPL570,Affymetrix Human Genome U133 Plus 2.0 Array,58,Carboplatin and Paclitaxel,Ovarian carcinoma,Ovarian cancer tissue,22348014,,,
+GSE31245,GPL8300	,Affymetrix Human Genome U95 Version 2 Array,58,,epithelial ovarian cancer,ovarian cancer samples,16204010,,,
+GSE186332,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",57,Selinexor,Recurrent Glioblastoma,Resected tumor specimens,34728525,,,
+GSE133120,GPL570,Affymetrix Human Genome U133 Plus 2.0 Array,57,Romidepsin,Cancer,Cancer cell lines,34050002; 35681624,,,
+GSE143731,GPL16791,Illumina HiSeq 2500 (Homo sapiens),56,Bedaquiline,Bacterial infection (not specific),Host macrophages,32369020,,,
+GSE56091,GPL11154; GPL15645; GPL18448,Illumina HiSeq 2000 (Candida albicans; Homo sapiens),56,,Candidiasis,Human tissue culture monolayers (HUVECs or OKF6-TERT2),25858952,,,
+GSE18464,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,55,,Chronic unsuppressed HIV infection,CD14+ monocytes,20495440,,,
+GSE154041,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",71,Regorafenib,Glioblastoma,Tumor samples from patients with glioblastoma,32661549,,,
+GSE70615,GPL18190,Affymetrix Human Gene 1.1 ST Array [CDF: Brainarray HuGene11stv1_Hs_ENTREZG_15.1.0],71,,,Cultured cells (cell line not specified),25582842,,,
+GSE190266,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),70,MEK inhibitor,Non-small cell lung cancer,Lung tumor,35051357,,,
+GSE43900,GPL1261; GPL11154; GPL11533; GPL13112; GPL17400,Affymetrix Mouse Genome 430 2.0 Array; Illumina HiSeq 2000 (Homo sapiens & Mus musculus); Affymetrix Mouse Gene 1.1 ST Array [transcript (gene) version]; Affymetrix Mouse Gene 2.1 ST Array [transcript (gene) version],70,Topotecan,Autism spectrum disorder (ASD),Developing and adult brain,27459055,,,
+GSE32989,GPL13376,Illumina HumanWG-6 v2.0 expression beadchip,69,EGFR inhibitors and PI3K/Akt pathway inhibitors,Non-small cell lung cancer (NSCLC),Lung,23091115,,,
+GSE100568,GPL11154	,Illumina HiSeq 2000 (Homo sapiens),68,5-Aza-deoxycytidine (AZA),neuroblastoma; a pediatric cancer,tumor tissue from patients with neuroblastoma,28696319,,,
+GSE59,GPL167; GPL169,10k_Print3; 10k_print2,68,,,cancer cell lines,10700174,,,
+GSE154613,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",66,DMSO; berbamine; terfenadine; loperamide; trifluoperazine; amlodipine; and RS-504393,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Transformed lung alveolar (A549) cells and pancreatic organoids created from hESCs,,,,
+GSE126895,GPL11154,Illumina HiSeq 2000 (Homo sapiens),66,etoposide,acute myeloid leukemia (AML),AML cell lines,31523390,,,
+GSE101929,GPL570	,"Affymetrix Human Genome U133 Plus 2.0 Array",66,,Non-small cell lung cancer (NSCLC),Lung,29196495,,,
+GSE145639,GPL15520; GPL18573,Illumina MiSeq (Homo sapiens); Illumina NextSeq 500 (Homo sapiens),65,Epigenetic therapy,Cancer,,33087935,,,
+GSE93157,GPL19965,"nCounter PanCancer Immune Profiling Panel",65,PD-1 blockade therapy,Non-small cell lung carcinoma; head and neck squamous cell carcinoma; and melanoma,Tumor samples,28487385,,,
+GSE63584,GPL11154; GPL18573,Illumina HiSeq 2000 (Homo sapiens); Illumina NextSeq 500 (Homo sapiens),65,BET bromodomain inhibitors,Triple-negative breast cancer (TNBC),Breast,26735014,,,
+GSE64033,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",65,PI3K inhibitors,Hormone receptor-positive breast cancer,Breast tissue,25877889,,,
+GSE168859,GPL21290,"Illumina HiSeq 3000 (Homo sapiens)",64,Alemtuzumab (used in a clinical protocol to test therapy in refractory disease),T-cell large granular lymphocytosis (T-LGL),CD3+ T cells,35411048,,,
+GSE89485,GPL11154; GPL13112; GPL18573	,Illumina HiSeq 2000 (Homo sapiens & Mus musculus); Illumina NextSeq 500 (Homo sapiens),64,,MLL-rearranged leukemia,,28065413,,,
+GSE222886,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",63,Decitabine,Acute Myeloid Leukemia (AML),,32357061,,,
+GSE174791,GPL21697,"NextSeq 550 (Homo sapiens)",63,,,CD4+ T cells,,,,
+GSE7505,GPL5080,NHGRI Homo sapiens 6K,63,,,Human cancer cell lines (NCI60),18199535,,,
+GSE4342,GPL96； GPL97	,Affymetrix Human Genome U133A & B Array,63,Gefitinib,Non-small cell lung cancer (NSCLC),NSCLC cell lines,16877703,,,
+GSE138780,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",62,trametinib,triple-negative breast cancer,breast cancer cell line,,,,
+GSE115421,GPL11154； GPL24676,Illumina HiSeq 2000 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens),62,rosiglitazone,type 2 diabetes,human adipose stem cell-derived adipocytes,30639037,,,
+GSE99626,GPL16791; GPL18573; GPL20301,Illumina HiSeq 2500 & 4000(Homo sapiens); Illumina NextSeq 500 (Homo sapiens),62,Progesterone; Dexamethasone; DHT or Aldosterone (NR3C ligands),ER+ breast cancer,Breast cancer cell lines (ER+ MCF7 cells),,,,
+GSE91392,GPL17586,Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],61,,Glioblastoma,Brain,28122246,,,
+GSE161149,GPL21697; GPL22992; GPL24676,NextSeq 550 (Homo sapiens); TaqMan OpenArray Human MicroRNA Panel; Illumina NovaSeq 6000 (Homo sapiens),60,,Oesophageal Adenocarcinoma (OAC),Cell lines and patient serum samples,33255413,,,
+GSE124074,GPL16791; GPL20301,Illumina HiSeq 2500 & 4000 (Homo sapiens),60,,Type 2 diabetes,Liver,29892037,,,
+GSE124548,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",60,Lumacaftor/Ivacaftor,Cystic Fibrosis,whole-blood,,,,
+GSE68936,GPL80v,"Affymetrix Human Full Length HuGeneFL Array",60,,Various cancers; including carcinoma; glioblastoma; lymphoma; adenocarcinoma; melanoma; and others.,Kidney; brain; blood; lung; skin; colon; breast; prostate; ovary.,11553813,,,
+GSE37543,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),60,bevacizumab,breast cancer,xenografts,23142657,,,
+GSE28893,GPL6104,"Illumina humanRef-8 v2.0 expression beadchip",60,,,,23935528,,,
+GSE3964,GPL3282	,"11K_VJF-ARRAY",60,folinic acid; 5-fluorouracil (5-FU); and irinotecan (CPT-11),Colorectal cancer,Tumor biopsies (including 9 tumor colons; 13 liver metastases; 6 adjacent non-tumoral colons),16542501,,,
+GSE141335,GPL16791,Illumina HiSeq 2500 (Homo sapiens),60,ibrutinib,Mantle cell lymphoma,B-cell lymphoma,33730585,,,
+GSE182959,GPL20301	,"Illumina HiSeq 4000 (Homo sapiens)",60,TPA (phorbol-12-myristate-13-acetate) and KL (K252a),Epidermal progenitor maintenance,Skin,35906225,,,
+GSE29868,GPL570	,"Affymetrix Human Genome U133 Plus 2.0 Array",59,Atorvastatin,primary human hepatocytes,Hepatocytes and skeletal muscle tissue,21757465,,,
+GSE21138,GPL570	,"Affymetrix Human Genome U133 Plus 2.0 Array",59,,Schizophrenia,Prefrontal cortex (specifically BA46) of the human brain,22832356; 22397921; 18778695,,,
+GSE145325,GPL21290,Illumina HiSeq 3000 (Homo sapiens),58,Letrozole,ER+ breast cancer,Breast tumor (ER+ subtype),33127913,,,
+GSE30161,GPL570	,"Affymetrix Human Genome U133 Plus 2.0 Array",58,Carboplatin and Taxol (paclitaxel),Ovarian carcinoma,Tumor (stage III-IV ovarian cancer patients),22348014,,,
+GSE31245,GPL8300,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array,57,,Epithelial Ovarian Cancer (EOC),Tumor tissue obtained at the time of diagnosis from patients with epithelial ovarian cancer (EOC).,16204010,,,
+GSE133120,GPL570	,"Affymetrix Human Genome U133 Plus 2.0 Array",57,Romidepsin (histone deacetylase inhibitor),Cancer (specifically; the study analyzed 8 different cancer cell lines),Cancer cell lines from humans (specifically; HUT78; LOXIMVI; M14; A549; MDA231; ACHN; MiaPaca2; and PC3).,34050002; 35681624,,,
+GSE143731,GPL16791,Illumina HiSeq 2500 (Homo sapiens),56,Isoniazid (INH); Rifampicin (RIF); Ethambutol (EMB); Pyrazinamide (PZA); and Amikacin (AMK),Tuberculosis (TB),Human macrophages,32369020,,,
+GSE186332,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),56,Selinexor,Recurrent Glioblastoma,Resected tumor specimens from patients with recurrent glioblastoma,34728525,,,
+GSE56091,GPL11154; GPL15645; GPL18448,Illumina HiSeq 2000 (Candida albicans; Homo sapiens),55,,Candidiasis,Candida albicans; Homo sapiens,25858952,,,
+GSE18464,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,55,Highly active antiretroviral therapies (HAART),HIV infection,Homo sapiens,23437063; 20495440,,,
+GSE211856,GPL16791,Illumina HiSeq 2500 (Homo sapiens),54,Enzalutamide,prostate cancer,LNCaP xenografts,,,,
+GSE152102,GPL16791,Illumina HiSeq 2500 (Homo sapiens),54,AZD1775,Breast cancer,Breast cancer cell lines,32628111,,,
+GSE99878,GPL13158,[HT_HG-U133_Plus_PM] Affymetrix HT HG-U133+ PM Array Plate,54,tolvaptan,idiosyncratic drug-induced liver injury,liver hepatocytes,29029277,,,
+GSE42236,GPL16025,NimbleGen Homo sapiens Expression Array [100718_HG18_opt_expr],54,Gelsemium sempervirens plant ethanolic extract,anxiolytic and antidepressant,SHSY5Y; IMR32 human neuroblastoma cells,24642002,,,
+GSE33290,GPL4133; GPL9193,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version); IQUSP Human Intron-Exon 44k v2.0,54,Dasatinib,chronic myeloid leukemia (CML),mononuclear cells,23676950,,,
+GSE208132,GPL20301,Illumina HiSeq 4000 (Homo sapiens),53,acamprosate,alcohol use disorder,Plasma and peripheral blood mononuclear cells (PBMCs),36120372,,,
+GSE196038,GPL18573; GPL20301; GPL24676,Illumina NextSeq 500 (Homo sapiens); Illumina HiSeq 4000 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens),53,APG-157,Head and neck cancer (HNC),Plasma,35600369,,,
+GSE38542,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,53,Antiretroviral therapy (ART),HIV and Hepatitis C virus (HCV) coinfection,CD14+ monocytes and T cell subsets (CD4 and CD8),23437063,,,
+GSE124510,GPL11154; GPL20301,"Illumina HiSeq 2000 (Homo sapiens); Illumina HiSeq 4000 (Homo sapiens)
+",52,PI carfilzomib,multiple myeloma (MM),Myeloma cells,32321912,,,
+GSE8057,GPL8300,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array,51,cisplatin; oxaliplatin,ovarian cancer,A2780 human ovarian carcinoma cells,18359979,,,
+GSE212525,GPL15520,Illumina MiSeq (Homo sapiens),50,Sitravatinib Plus Nivolumab,ccRCC,kidney,,,,
+GSE28739,GPL7264,Agilent-012097 Human 1A Microarray (V2) G4110B (Probe Name version),50,Chemotherapy,epithelial ovarian cancer (EOC),chemoresistant clinical samples versus chemosensitive samples,21799864,,,
+GSE10916,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,50,chemotherapy with melphalan or temozolomide,melanoma,human-melanoma derived cell lines,19147755; 20371714,,,
+GSE89231,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,49,Doxorubicin,DLBCL,DLBCL cell lines,,,,
+GSE11827,GPL5215,INSERM Homo sapiens 14K array Liverpool3,49,anakinra; méthotrexate,rheumatoid arthritis,PBMCs,21059672,,,
+GSE128303,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,48,Iminosugar MON-DNJ modulation;  LPS,sepsis and septic shock,human monocyte-derived macrophages,31306674,,,
+GSE116919,GPL18573,Illumina NextSeq 500 (Homo sapiens),48,BAZ2A/B inhibition and BET bromodomain inhibition alone and in combination,triple negative breast cancer,Breast cancer cells,31000582,,,
+GSE116927,GPL20301,Illumina HiSeq 4000 (Homo sapiens),48,HSP90 inhibitors,Chronic lung diseases with goblet cell metaplasia,Human airway epithelial cells,30640172,,,
+GSE31625,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,48,Lung Cancer,Epidermal growth factor receptor tyrosine kinase inhibitors,Lung Cancer Cell Lines and Human Lung Tumors,17096850,,,
+GSE99986,GPL18573,Illumina NextSeq 500 (Homo sapiens),47,progestin,breast cancer,Breast tumor explants; cell lines, ,,,
+GSE45558,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],46,BRAF and MEK inhibitor,Melanoma cell lines,22 BRAF-mutant melanoma cell lines,26286024,,,
+GSE34870,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),46,Interferon-alpha (IFN-a); AZT; Q2; Q3; and IFN-b,Human immunodeficiency virus type 1 (HIV-1); human T lymphotropic virus type 1 (HTLV-1) retroviral infections,MT-4 and MT-2 cells, ,,,
+GSE8465,GPL887,Agilent-012097 Human 1A Microarray (V2) G4110B (Feature Number version),46,Neoadjuvant Gemcitabine Plus Doxorubicin Followed by Gemcitabine Plus Cisplatin,Breast Cancer,Breast tissue,18382427,,,
+GSE4173,GPL1448; GPL2696; GPL3046,"SHDK; SHCG; SHBT
+",46,docetaxel or paclitaxel,ovarian cancer,ovarian carcinoma cell lines,16382445,,,
+GSE108061,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,45,mTOR; MEK; and EGFR inhibitors,head and neck squamous cell carcinoma (HNSCC),Cancer Cell Line,33803266,,,
+GSE24591,GPL1426; GPL2986,"ABI Human Genome Survey Microarray Version 1; ABI Human Genome Survey Microarray Version 2
+",45,Hydroxyurea (HU),Sickle cell disease (SCD),Vascular endothelial cells (VEC),21228039,,,
+GSE15392,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,45,CDK inhibitor,DU145 tumor,DU145 tumor cells,19755512,,,
+GSE4342,GPL96; GPL97        ,[HG-U133A] Affymetrix Human Genome U133A Array; [HG-U133B] Affymetrix Human Genome U133B Array,63,Gefitinib,non-small cell lung cancer ,non-small cell lung cancer (NSCLC) cell lines,16877703;  19634903,,,
+GSE159008,GPL20301,Illumina HiSeq 4000 (Homo sapiens),44,budesonide,collagenous colitis (CC); ulcerative colitis (UC),colonic biopsies,33930606,,,
+GSE102677,GPL18573,Illumina NextSeq 500 (Homo sapiens),44,Metformin,Mycobacterium tuberculosis,Peripheral Mononuclear Cells,30753544,,,
+GSE112953,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,44,lenalidomide,Chronic Lymphocytic Leukemia,Blood and lyphm node samples,,,,
+GSE3592,GPL3064,INSERM Homo sapiens 14K array_Liverpool2,44,infliximab/methotrexate; ,rheumatoid arthritis,peripheral blood mononuclear cells (PBMCs),16817978,,,
+GSE118041,GPL21290,Illumina HiSeq 3000 (Homo sapiens),43,PORCN inhibition,mutant pancreatic adenocarcinoma,Orthotopic Wnt-addicted pancreatic cancer model,30300142; 33092630,,,
+GSE211052,GPL24676; GPL30173,Illumina NovaSeq 6000 (Homo sapiens);  NextSeq 2000 (Homo sapiens),42,Histone acetyltransferase inhibitors,Acute myeloid leukemia (AML),AML cell lines,,,,
+GSE174498,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),42,L-asparaginase,acute lymphoblastic leukemia,ALL cell lines,35671062,,,
+GSE100922,GPL21464,[HG-U219_Hs_ENTREZG_19] Affymetrix Human Genome U219 Array [CDF: Brainarray HGU219_Hs_ENTREZG_19.0.0],42,hematopoietic stem cell transplant (HSCT),Crohn’s disease (CD),whole blood,30521002,,,
+GSE108293,GPL11154,Illumina HiSeq 2000 (Homo sapiens),42,MALT1 Inhibitors,ABC DLBCL,ABC-DLBCL cell lines,30024860,,,
+GSE103990,GPL16791,Illumina HiSeq 2500 (Homo sapiens),42,,bladder cancer,bladder lines from patient biopsies,29625057,,,
+GSE78829,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,42,bromosporine,leukemic,leukemic cell-lines,27757418,,,
+GSE77750,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,42,azacitidine,myelodysplastic syndromes; chronic myelomonocytic leukemia; acute myeloid leukemia,bone marrow CD34+ cells,27416819; 30223454,,,
+GSE46703,GPL6884,Illumina HumanWG-6 v3.0 expression beadchip,42,histone deacetylase inhibitor,gastrointestinal carcinoma,peripheral blood mononuclear cells,25501337; 24587009,,,
+GSE45847,GPL16979,GeneTrack Human 35K oligonucleotide microarray,42,aspirin,AERD,peripheral blood mononuclear cells (PBMCs),22457146,,,
+GSE28691,GPL571,[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array,42,oxaliplatin,Colorectal Cancer,human tumors and murine explants of colorectal origin,,,,
+GSE13548,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,42,UPR modulators,selective cancer,cancer cell,19435925,,,
+GSE64741,GPL11154,Illumina HiSeq 2000 (Homo sapiens),41,BRAF; ALK; or EGFR inhibitors,Melanoma and lung adenocarcinoma,sensitive tumour cells and xenograft tumours,25807485,,,
+GSE210020,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),40,Nintedanib,Senescence and age-related diseases,Human diploid fibroblasts and mouse lung fibrosis model,36055997,,,
+GSE45867,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,40,tocilizumab; methotrexate,rheumatoid arthrtis synovium,Paired synovial biopsy samples,24449571; 25927832,,,
+GSE24065,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),40,doxorubicin and 5-fluorouracil,Breast adenocarcinoma,MCF7 cells,30025229; 25401416;  31645610,,,
+GSE26805,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),40,CDK 4/6 Inhibition,Ovarian Cancer,ovarian cell lines,24727326; 21278246,,,
+GSE15913,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,40,Thalidomide,chronic lymphocytic leukemia (CLL),CLL cells,19440214,,,
+GSE5716,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,40,gamma-secretase inhibitor,ALL,ALL cells,17873882,,,
+GSE117489,GPL16791,Illumina HiSeq 2500 (Homo sapiens),39,Celecoxib and dimethyl-celecoxib,Asthma,Airway epithelium,32208383,,,
+GSE123340,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,39,DKFZ-608,Small cell lung cancer (SCLC) and Non-small cell lung cancer (NSCLC),Cancer cell lines,,,,
+GSE68163,GPL13667,[HG-U219] Affymetrix Human Genome U219 Array,38,Bendamustine,CLL,CLL cells,26701728,,,
+GSE31811,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),38,DCS therapy,metastatic gastric cancer,tumor tissue samples,,,,
+GSE12972,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,38,Doxorubicin,Liposarcoma,Primary human liposarcoma cell cultures,18959781,,,
+GSE12102,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,37,chemotherapy,Ewing’s sarcoma,primary tumors and metastasis in patients,19307502,,,
+GSE196035,GPL18573,Illumina NextSeq 500 (Homo sapiens),36,MEN1 mutations; Menin-inhibitor,Acute leukemias,xenograft models,36922589,,,
+GSE102469,GPL18460,Illumina HiSeq 1500 (Homo sapiens),36,17β-estradiol (E2); Premarin chemical equivalents (EC10); Bazadoxifene (BZA); Duavee,Menopausal symptoms; Breast cancer,Breast epithelial cell lines (MCF10A and MCF7),,,,
+GSE135030,GPL16791,Illumina HiSeq 2500 (Homo sapiens),36,fludarabine; ibrutinib and idelalisib,CLL,MEC1; EHEB and JVM2 leukemia cell lines,32418995,,,
+GSE98785,GPL20301,Illumina HiSeq 4000 (Homo sapiens),36,HCI-2509,Ewing sarcoma,Ewing sarcoma cell lines,29997151; 34662337,,,
+GSE68215,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version),36,methotrexate /abatacept (Aba),Rheumatoid Arthritis,,28545499; 32760165,,,
+GSE78827,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,36,BSP,leukemia,,27757418,,,
+GSE57130,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,36,HDAC inhibitors and Azacytidine,Esophageal Cancer,Esophageal Cancer Cells,25923331,,,
+GSE23428,GPL5325,Agilent UNC Perou Lab Homo sapiens 1X44K Custom Array,36,Cetuximab; Carboplatin ,Triple Negative Breast Cancer,metastatic breast cancer samples,22665533,,,
+GSE5574,GPL4191,CodeLink UniSet Human I Bioarray,36,IFN-ß-1a therapy,Multiple Sclerosis,PBMC,17467740,,,
+GSE174850,GPL16791; GPL22245,"Illumina HiSeq 2500 (Homo sapiens); Illumina HiSeq 2500 (Homo sapiens; Mus musculus)
+",35,osimertinib; vehicle,Metastatic EGFR mutant non-small cell lung cancer (NSCLC) with brain metastasis,Brain microvascular tumor microenvironment,36509758,,,
+GSE180790,GPL20301,Illumina HiSeq 4000 (Homo sapiens),35,5-FU; irinotecan; trametinib; erlotinib; cetuximab; avastin; oxaliplatin; selumetinib; docetaxel; and everolimus.,Peritoneal metastasis of colorectal cancer (pmCRC),Metastatic colorectal cancer tissue and corresponding PDX tumors and PD3D cell culture models.,34670579,,,
+GSE158387,GPL20301,Illumina HiSeq 4000 (Homo sapiens),35,proteasome inhibitor,myeloma,cancer cells,33883278,,,
+GSE116129,GPL16791,Illumina HiSeq 2500 (Homo sapiens),35,ABT-199,B-cell Lymphomas [RNA-seq],tumor cells,31085176,,,
+GSE4137,GPL3344; GPL3405        ,"SHEI; SHEM
+",35,chemotherapy,AML,AML cell lines,16266895,,,
+GSE212521,GPL11154,Illumina HiSeq 2000 (Homo sapiens),34,RO7122290,advanced solid tumors,patient biopsies,,,,
+GSE199161,GPL11154; GPL24676,Illumina HiSeq 2000 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens),34,BCL2 inhibition,leukemia,cancer cell,36563682,,,
+GSE147526,GPL20795; GPL23085	,HiSeq X Ten (Homo sapiens; Danio rerio),34,Temozolomide,Glioblastoma,Zebrafish brain,35199829,,,
+GSE173634,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",34,,Breast cancer,Tumour biopsies,35361816,,,
+GSE190265,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",34,MEK inhibitor (MEKi),Non-small cell lung cancer (NSCLC),Lung tumor cells,35051357,,,
+GSE159007,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",34,Budesonide,Collagenous colitis; a type of inflammatory bowel disease,Colonic biopsies from patients,33930606,,,
+GSE153792,GPL17303,Ion Torrent Proton (Homo sapiens),34,Metformin,Type 2 diabetes mellitus,Whole blood,32780768,,,
+GSE55513,GPL16686,Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],34,,Pancreatic Ductal Adenocarcinoma (PDAC),PDAC samples obtained by Endoscopic Ultrasound,25765988,,,
+GSE40841,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,34,CYT387,Myelofibrosis,,23459451,,,
+GSE11302,GPL6104	,"Illumina humanRef-8 v2.0 expression beadchip",34,,,,18522853,,,
+GSE195568,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),33,Palbociclib,Malignant pleural mesothelioma,Cell lines (established and patient-derived),36453028,,,
+GSE174745,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",33,,Dopaminergic Neuron Senescence,SARS-CoV-2 Infection,,,,
+GSE9166,GPL96,"Affymetrix Human Genome U133A Array",33,Trovafloxacin,,Human liver-derived cells (primary human hepatocytes and HepG2 cells),17967932,,,
+GSE9166,GPL96,"Affymetrix Human Genome U133A Array",33,Trovafloxacin,,Human liver-derived cells (primary human hepatocytes and HepG2 cells),17967932,,,
+GSE5307,GPL3676,NKI-CMF Homo sapiens 35k oligo array,33,bortezomib,Breast cancer,Breast (cancer) cell lines and breast epithelial cell line,18199530,,,
+GSE221207,GPL21697,NextSeq 550 (Homo sapiens),32,VX,Chemical warfare agent exposure,Liver,36780485,,,
+GSE151159,GSE151159,Illumina HiSeq 2000 (Homo sapiens),32,dasatinib,Chronic lymphocytic leukemia (CLL),Peripheral blood lymphocytes,33354656,,,
+GSE135514,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",32,Salinomycin and Dasatinib,Breast Cancer,MDA-MB-468 human triple negative breast cancer cell line,32678032,,,
+GSE148242,GPL17585,Affymetrix Human Transcriptome Array 2.0 [probe set (exon) version],32,HDP-101,Multiple myeloma,Cell lines (H929 and MM1.S),33033182,,,
+GSE133145,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",32,Bedaquiline,Tuberculosis (MTB infection),Human macrophages,32369020,,,
+GSE128387,GPL17692,Affymetrix Human Gene 2.1 ST Array [transcript (gene) version],32,Fluoxetine,Depression,Blood,,,,
+GSE66549,GPL6244,Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],32,MEK Inhibitor,Squamous Cell Carcinoma (SCC),,25939760,,,
+GSE59808,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",32,,PIM inhibitors,32 AML cell lines,,,,
+GSE10655,GPL6534	,"Print_1186",32,Interferon-beta (IFNb),Multiple Sclerosis (MS),Blood,18382694,,,
+GSE1434,GPL1260	,"GLI1 and GLI2 target genes",32,,,HaCaT keratinocytes,16434164,,,
+GSE1434,GPL1260	,"GLI1 and GLI2 target genes",32,,,HaCaT keratinocytes,16434164,,,
+GSE212014,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",31,,Gastrointestinal cancers including pancreatic ductal adenocarcinoma; colorectal adenocarcinoma; and cholangiocarcinoma,Patient-derived organoids (PDOs),36256477,,,
+GSE203612,GPL18573; GPL19057; GPL19415,Illumina NextSeq 500 (Homo sapiens; Mus musculus),31,,,,35931863,,,
+GSE96049,GPL16791,Illumina HiSeq 2500 (Homo sapiens),31,,Pelizaeus-Merzbacher Disease,Human induced pluripotent stem cell-derived oligodendrocytes,28366443,,,
+GSE87007,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",31,Palbociclib,Breast cancer,Breast cancer cell lines and tumors,28566333,,,
+GSE70616,GPL18190	,Affymetrix Human Gene 1.1 ST Array [CDF: Brainarray HuGene11stv1_Hs_ENTREZG_15.1.0],31,,,Cell culture,25582842,,,
+GSE5149,GPL4338,"CNIO Homo sapiens Oncochip 2 (27.648)",31,Docetaxel,Breast cancer,Breast cancer cell lines (MCF7 and MDA-MB-231),17099726,,,
+GSE153315,GPL17303,"Ion Torrent Proton (Homo sapiens)",30,Metformin,Type 2 Diabetes (T2D),Whole blood,31128758,,,
+GSE201868,GPL24676	,Illumina NovaSeq 6000 (Homo sapiens),30,,Hepatocellular Carcinoma,Tumor samples,36059442,,,
+GSE171763,GPL24676	,Illumina NovaSeq 6000 (Homo sapiens),30,Venetoclax and Ibrutinib,Diffuse large B-cell lymphoma (DLBCL),DLBCL cell lines,34795418,,,
+GSE171650,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",30,,Lung cancer,Lung,34038737,,,
+GSE140768,GPL16791; GPL24676; GPL27644	,"Illumina HiSeq 2500 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens)",30,PTC-028,Diffuse intrinsic pontine glioma (DIPG),DIPG cells,33086074,,,
+GSE144761,GPL20301,Illumina HiSeq 4000 (Homo sapiens),30,Irofulven,Cancer,,33199492,,,
+GSE139896,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",30,Rifampin; Rifabutin; Rifapentine,Tuberculosis,Human primary hepatocytes,32724080,,,
+GSE120350,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,30,,Lactotroph pituitary tumors,Pituitary,30555413,,,
+GSE80767,GPL6887; GPL10558,Illumina MouseWG-6 v2.0 expression beadchip; Illumina HumanHT-12 V4.0 expression beadchip,30,,,,27496731,,,
+GSE40263,GPL6244,Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],30,Novel antioxidative peptides,psoriatic changes,PBMCs,25980547,,,
+GSE34672,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",30,Tranylcypromine (TCP),Acute Myeloid Leukemia (AML),Human myeloid cells (HL-60 or TEX cell line),22406747,,,
+GSE22319,GPL10536,"TAGC Homo sapiens 9k (HuSG9k) v1",30,Various potential antivirals including ribavirin,Influenza A virus infection,A549 human lung epithelial cells,20957181,,,
+GSE23209,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F,30,17-AAG (HSP90 inhibitor),Breast cancer,Breast cancer cell lines,20920318,,,
+GSE14580,GPL570,Affymetrix Human Genome U133 Plus 2.0 Array,30,Infliximab,Ulcerative colitis,Colonic mucosal biopsies,19700435,,,
+GSE1676,GPL201,"Affymetrix Human HG-Focus Target Array",30,NCS (radiomimetic drug),DNA damage response,Human cells (not specified),15892871,,,
+GSE1676,GPL201,"Affymetrix Human HG-Focus Target Array",30,NCS (radiomimetic drug),DNA damage response,Human cells (not specified),15892871,,,
+GSE140758,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",29,NVP-CGM097,ER-positive breast cancer,Breast,32787886,,,
+GSE54323,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",29,Sunitinib,Metastatic breast cancer,Tumor biopsies,25888067,,,
+GSE65420,GPL11154,Illumina HiSeq 2000 (Homo sapiens),29,PBS-1086,EGFR-mutant lung adenocarcinoma,11-18 (EGFR-mutant lung adenocarcinoma) cells,25843712,,,
+GSE123141,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",28,,Ulcerative colitis and Crohn's disease (inflammatory bowel disease),Intestinal macrophages,33570153,,,
+GSE124253,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",28,,Chronic obstructive pulmonary disease (COPD); idiopathic pulmonary fibrosis (IPF); most lung cancers,Small airway epithelium (SAE),31443657,,,
+GSE134986,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",28,oligomycin,Mitochondrial stress,HEK293T cells,32132707,,,
+GSE62935,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",28,,Frontotemporal dementia (FTD),Induced pluripotent stem (iPS) cells differentiated into neurons from individuals with FTD-associated MAPT mutations.,26143746,,,
+GSE84713,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",28,Cetuximab,Head and neck cancer (SCCHN),Patient-derived xenografts,28560858,,,
+GSE68091,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",28,ONC201,Mantle cell lymphoma (MCL) and acute myeloid leukemia,Hematologic cells,26884599,,,
+GSE63582,GPL11154; GPL18573	,Illumina HiSeq 2000 (Homo sapiens); Illumina NextSeq 500 (Homo sapiens),28,BET bromodomain inhibitors such as JQ1,Triple negative breast cancer,Breast cancer cells,26735014,,,
+GSE35142,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version),28,Surface modified SiO2 and PAMAM dendrimers,,Human aortic endothelial cells,23806026,,,
+GSE33224,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version),28,Dasatinib,Chronic myeloid leukemia (CML),Mononuclear cells,23676950,,,
+GSE32191,GPL2895; GPL6801	,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray; [GenomeWideSNP_6] Affymetrix Genome-Wide Human SNP 6.0 Array,28,,,,21251114,,,
+GSE30011,GPL2006,"Human 19K oligo array",28,Oxaliplatin,colon cancer,colon cancer cell lines,,,,
+GSE2888,GPL96,"Affymetrix Human Genome U133A Array",28,,,,,,,
+GSE2535,GPL8300	,"Affymetrix Human Genome U95 Version 2 Array",28,imatinib (also called Gleevec),chronic myelogenous leukemia (CML),blood or bone marrow,15820940,,,
+GSE2535,GPL8300	,"Affymetrix Human Genome U95 Version 2 Array",28,imatinib (also called Gleevec),chronic myelogenous leukemia (CML),blood or bone marrow,15820940,,,
+GSE151343,GPL570,"Affymetrix Human Genome U133 Plus 2.0 Array",27,Actinomycin D,Medulloblastoma,Brain,33046443,,,
+GSE131473,GPL18460	,"Illumina HiSeq 1500 (Homo sapiens)",27,Wnt-activating drug,Medulloblastoma,Brain,32859895,,,
+GSE114286,GPL17303,"Ion Torrent Proton (Homo sapiens)",27,Indirubin,Psoriasis,Skin,30341238,,,
+GSE113711,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",27,JQ1 BET inhibitor,Lung cancer,Lung cancer cell line H23,30080437,,,
+GSE89891,GPL10558	,"Illumina HumanHT-12 V4.0 expression beadchip",27,BIX-01294,Breast cancer,Human breast cancer cells (MCF7),29145444,,,
+GSE78512,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",27,Compound Kushen Injection (CKI),Breast cancer,MCF-7 breast cancer cell line,27602759,,,
+GSE42387,GPL16297,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Agilent Systematic Name; collapsed probe; version),27,oxaliplatin and irinotecan (active metabolite SN-38),colorectal cancer,colon cancer cell lines,25759163,,,
+GSE186447,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),26,NCP26,Multiple myeloma,Bone marrow,36631435,,,
+GSE188249,GPL11154	,"Illumina HiSeq 2000 (Homo sapiens)",26,Guadecitabine and pembrolizumab,Recurrent platinum-resistant ovarian cancer,Epithelial ovarian; fallopian tube; or primary peritoneal cancer,35671108,,,
+GSE199456,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",26,Fedratinib,Acute myeloid leukemia (AML),Patient-derived AML xenografts,35618837,,,
+GSE159751,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",26,Mito-Tempo,Crohn's disease,Intestinal mucosal biopsies,,,,
+GSE162335,GPL20301,Illumina HiSeq 4000 (Homo sapiens),26,,Ulcerative colitis,Intestinal tissues; specifically ileal-anal pouch,33359089,,,
+GSE123278,GPL18573	,"Illumina NextSeq 500 (Homo sapiens)",26,panobinostat,diffuse midline glioma (DMG),central nervous system,31748226,,,
+GSE121926,GPL18573	,"Illumina NextSeq 500 (Homo sapiens)",26,,,B-lymphoblastoid cell lines (LCLs),36496436; 30894562,,,
+GSE53798,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",26,cyclophosphamide; doxorubicin; and vincristine.,,,25881228,,,
+GSE33288,GPL9193,"IQUSP Human Intron-Exon 44k v2.0",26,Dasatinib,Chronic myeloid leukemia (CML),Mononuclear cells,23676950,,,
+GSE12530,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,26,,meningioma,,19003955,,,
+GSE145356,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",25,CPT-11,colorectal cancer,colorectal cancer cells,33417860,,,
+GSE117548,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",25,,Colorectal cancer,Patient-derived colorectal cancer organoids.,35668108,,,
+GSE29002,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,25,,,,22894908,,,
+GSE223839,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",24,,Drug Resistance in hepatoblastoma,,,,,
+GSE199159,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",24,Venetoclax,Acute myeloid leukemia (AML),MOLM13 cells (leukemia cell line),36563682,,,
+GSE203505,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",24,Neutralizing CXCL10 antibody,Tumor-associated vasculature,Pericytes and endothelial cells,,,,
+GSE203358,GPL32271,"Ion GeneStudio S5 prime (Homo sapiens)",24,Verteporfin,Cardiac fibrosis,Cardiac stromal cells,35770662,,,
+GSE167246,GPL20844,Agilent-072363 SurePrint G3 Human GE v3 8x60K Microarray 039494 [Feature Number Version],24,Afatinib,Cutaneous Adverse Drug Reactions (CADR),reconstructed human epidermis (RHE),34909713,,,
+GSE168797,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",24,Cannabidiol (CBD),SARS-CoV-2 (COVID-19),Lung epithelial cells (A549),33758843,,,
+GSE85547,GPL17230,NanoString Prognostic Liver Signature (PLS) panel (186 genes; ver.0),24,Cenicriviroc,Chronic hepatitis C with HIV co-infection,Liver biopsy tissues obtained at the time of enrollment,34951993,,,
+GSE188914,GPL18573,Illumina NextSeq 500 (Homo sapiens),24,Etoposide; Interferon-Gamma,Breast cancer (ERα+ and ERα-),Breast cancer cell lines (MCF-7 and MDA-MB-231),35014681,,,
+GSE185492,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",24,Small molecule inhibitors of epigenetic repressor EZH2 and Dopamine Receptor D2 (DRD2),Prostate cancer (Castration-resistant prostate cancer adenocarcinoma (CRPC-Adeno) and neuroendocrine prostate cancer (CRPC-NEPC)),Patient-derived hydrogel organoids of prostate cancer,,,,
+GSE181129,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",24,Selective agonist of Retionic acid Nuclear Receptor Gamma (RARg) II,Osteochondroma,Osteochondroma explants,,,,
+GSE151607,GPL21697,"NextSeq 550 (Homo sapiens)",24,Tazemetostat; Lenalidomide,Diffuse large B-cell lymphoma (DLBCL),,34168051,,,
+GSE156182,GPL23159,[Clariom_S_Human] Affymetrix Clariom S Assay; Human (Includes Pico Assay),24,WIP1 inhibitor (WIP1i) GSK2830371; MDM2 inhibitor Nutlin-3a,Acute myeloid leukemia (AML),AML cell lines (MV-4-11 and NOMO-1),33917342,,,
+GSE167241,GPL24676,"Illumina NovaSeq 6000 (Homo sapiens)",24,BET inhibitor (IBET-151); CDK9 inhibitor (CDKI73),Melanoma,Cutaneous melanoma cell lines,33781756,,,
+GSE141147,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",24,Selinexor,Myelodysplastic syndromes (MDS),,32735836,,,
+GSE157560,GPL23227,"BGISEQ-500 (Homo sapiens)",24,SK-3-91 pan-kinase degrader,,MOLT4 cells,33275901,,,
+GSE137574,GPL17586,[HTA-2_0] Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],24,Kevetrin,Acute myeloid leukemia (AML),,32945487,,,
+GSE138942,GPL17301,Ion Torrent PGM (Homo sapiens),24,BET inhibitor JQ1,Glioblastoma multiforme (GBM),Patient-derived GBM cell lines,31754113,,,
+GSE138233,GPL14550,Agilent-028004 SurePrint G3 Human GE 8x60K Microarray (Probe Name Version),24,DOXO (doxorubicin),triple negative breast cancer (TNBC),MDA-MB-436 cell line,31537618,,,
+GSE126232,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",24,ISRIB,Lung adenocarcinoma (LUAD), PC9 cells (a human LUAD cell line),31551255,,,
+GSE98126,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",24,Temozolomide (TMZ),Glioblastom,Brain,,,,
+GSE126768,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",24,Ixazomib and Belinostat,Hodgkin and T-cell Lymphoma,primary lymphoma cells obtained from cells isolated from ascites fluid of a patient with enteropathy-associated T-cell lymphoma,,,,
+GSE118197,GPL25431,"Illumina HiSeq 4000 (Homo sapiens; Mus musculus)",24,Gemcitabine and Acriflavine,Pancreatic ductal adenocarcinoma,Tumor and stroma,32764982; 30899378,,,
+GSE118231,GPL21290,"Illumina HiSeq 3000 (Homo sapiens)",24,PORCN inhibitor,pancreatic ductal adenocarcinoma (PDAC),HPAF-II orthotopic model,30300142,,,
+GSE103208,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,24,Ginkgo biloba (EGb761),Hepatocellular carcinoma (HCC),Liver (malignant and non-malignant cells),,,,
+GSE116529,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",24,YM155,Colorectal cancer,Human colorectal cancer cells,33186476,,,
+GSE106819,GPL20844,Agilent-072363 SurePrint G3 Human GE v3 8x60K Microarray 039494 [Feature Number Version],24,everolimus,clear cell renal cell carcinoma (ccRCC),renal (kidney) cell carcinoma cell lines,29508215,,,
+GSE114059,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,24,trametinib,colorectal cancer (CRC),colon cancer stem cells,31097693,,,
+GSE98230,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",24,5-FdU-ECyd,ovarian cancer,platinum-sensitive A2780; isogenic platinum-resistant A2780cis cells,29100359,,,
+GSE73046,GPL10904,Illumina HumanHT-12 V4.0 expression beadchip (gene symbol),24,,pancreatic ductal adenocarcinoma (PDAC),,29363544,,,
+GSE84146,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),24,Cisplatin,Lung and Ovarian cancers,Cancer cell lines and primary tumor samples,29158814,,,
+GSE103115,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",24,Cisplatin,Triple-negative breast cancer (TNBC),Breast cancer cells (specifically MDA-MB-231; MDA-MB-157; BT549; and HCC38 cell lines),31461651,,,
+GSE97979,GPL11154,"Illumina HiSeq 2000 (Homo sapiens)",24,,Cancer,HEK293∆RAF1:ER cells (human embryonic kidney cells with a deletion in the RAF1 gene and a fusion protein containing the ER ligand-binding domain),29295995,,,
+GSE72927,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",24,Library of potential antiglioblastoma compounds (not specified),Glioblastom,Human glioblastoma cells (cultured samples from surgical specimens; as well as the U-87 cell line; fibroblasts; and embryonic stem cell-derived neural progenitors were also analyzed for comparison),27521447,,,
+GSE58899,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,24,AEZS-136 (a dual PI3K/ERK inhibitor),Hodgkin Lymphoma,Hodgkin lymphoma cell lines (L-540; SUP-HD1; KM-H2; and L-428),27767172,,,
+GSE53772,GPL13497,Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version),24,FK866,,Jurkat cells (human T lymphocyte cell line),,,,
+GSE59805,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,24,Dexamethasone (a glucocorticoid),Multiple Myeloma,Myeloma cells (MM1S and MM1R cell lines),25474406,,,
+GSE45867,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,24,Tocilizumab,Rheumatoid arthritis,Synovium (biopsies taken from patients with rheumatoid arthritis),25927832; 24449571,,,
+GSE46914,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,24,Interferon-gamma (IFN-γ),Septic shock,PBMCs (Peripheral blood mononuclear cells) from healthy donors.,23874546,,,
+GSE45758,GPL571,"[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array",24,MEK inhibitor PD0325901,pancreatic cancer,pancreatic tissue in mice,22833572,,,
+GSE44172,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,24,chemoradiation,advanced rectal cancer,mononuclear peripheral blood cells,,,,
+GSE33135,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",24,Dexamethasone,Chronic lymphocytic leukemia,Peripheral blood mononuclear cells,22966019,,,
+GSE34686,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",24,MEK inhibitor PD0325901; BRAFV600E-specific inhibitor PLX4720; cytotoxic drugs camptothecin; celecoxib; fotemustine; and temozolomide; and soluble or membrane-bound TRAIL.,Melanoma,Human melanoma cell lines and surgical specimens,22553342,,,
+GSE28992,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",24,NVP-BEZ235,ovarian cancer,human ovarian cancer cell lines grown in 3D culture,22340595,,,
+GSE32492,GPL6102,Illumina human-6 v2.0 expression beadchip,24,5-Aza-2-deoxycytidine (5AzadC) and Trichostatin A,Melanoma,Melanoma cell lines and fresh tumors,18803327,,,
+GSE23070,GPL10716,"Cambridge/CodeLink UniSet Human 20K I Bioarray",24,,,,21244711,,,
+GSE24742,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,24,Rituximab,Rheumatoid arthritis,Synovial biopsies from the affected knee of anti-TNF resistant RA patients,25927832,,,
+GSE24742,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,24,Rituximab,Rheumatoid arthritis,Synovial biopsies from the affected knee of anti-TNF resistant RA patients,25927832,,,
+GSE18407,GPL6118; GPL6254,Clostridium difficile 630/QCD32g58 array; Phalanx Human OneArray,24,,Clostridium difficile infection (CDI),Caco-2 cells and Clostridium difficile,20521945,,,
+GSE15946,GPL8019,Affymetrix GeneChip Human Genome U133 Plus 2.0 Array [CDF: HGU133Plus2_Hs_ENTREZG v11.0.1],24,Lovastatin,Multiple myeloma (MM),Cell lines (KMS11; H929; LP1; and SKMM1),20360469,,,
+GSE14808,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,24,Estradiol (E) and medroxyprogesterone acetate (P),Endometrial stromal cells,Endometrial stromal cells,19843877,,,
+GSE13987,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,24,Rolipram,B lineage chronic lymphocytic leukemia (B-CLL),B-CLL cells; normal B cells; and normal T cells,19380787,,,
+GSE11830,GPL6259,"SBC Human 16K cDNA Microarray",24,GBE (not specified whether it's a specific compound or a mixture of compounds),,HepG2 cells (a human liver cancer cell line),19701231,,,
+GSE12299,GPL6104,Illumina humanRef-8 v2.0 expression beadchip,24,,,,28977426; 18927631,,,
+GSE7538,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",24,parthenolide (PTL),primary acute myelogenous leukemia (AML),CD34+ cells obtained from AML patients,27888238; 24934933,,,
+GSE152322,GPL10558,"Illumina HumanHT-12 V4.0 expression beadchip",23,Cisplatin,Triple-negative breast cancer (TNBC),,32806777,,,
+GSE143152,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",23,prexasertib,,,32076484,,,
+GSE31432,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",23,Trastuzumab and pertuzumab,Ovarian cancer,SKOV3 tumor xenografts (human ovarian cancer cell line xenografts),22549178,,,
+GSE31432,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",23,Trastuzumab and pertuzumab,Ovarian cancer,SKOV3 tumor xenografts (human ovarian cancer cell line xenografts),22549178,,,
+GSE10089,GPL96,"[HG-U133A] Affymetrix Human Genome U133A Array",23,Histone deacetylase (HDAC) inhibitors (Trichostatin A and Vorinostat),Non-small cell lung cancer (NSCLC),Lung cancer cell lines,18606719,,,
+GSE189926,GPL24676	,"Illumina NovaSeq 6000 (Homo sapiens)",23,Disulfiram and Nivolumab,Advanced gastric cancer,Gastric cancer specimens,,,,
+GSE199451,GPL11154,Illumina HiSeq 2000 (Homo sapiens),22,,Acute myeloid leukemia (AML),Peripheral blood samples collected from AML patients at diagnosis and relapse.,35618837,,,
+GSE162187,GPL20301,"Illumina HiSeq 4000 (Homo sapiens)",22,,breast cancer with neoadjuvant chemotherapy,biomarkers of chemotherapy response,36338974,,,
+GSE102633,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",22,Metformin,Tuberculosis,Blood (PBMCs),30753544,,,
+GSE75602,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",22,Epidermal growth factor receptor (EGFR) inhibitors (gefitinib and WZ4002),,Tumor cells,26828195,,,
+GSE56022,GPL11154; GPL16791	,Illumina HiSeq 2000 & 2500 (Homo sapiens),22,Dexamethasone (Dex),Triple-negative breast cancer (TNBC),Breast cancer cells (MDA-MB-231),26374485,,,
+GSE18124,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,22,Amblyomin-X,pancreas adenocarcinoma and melanoma,human tumor cell lines (Mia-PaCa-2 and SK-Mel-28),20570593,,,
+GSE8604,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,22,Hydralazine and magnesium valproate,Cervical carcinoma,Primary cervical tumors,,,,
+GSE5108,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,22,,Endometriosis,Eutopic endometrium and ectopic endometrium,17462640,,,
+GSE5108,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,22,,Endometriosis,Eutopic endometrium and ectopic endometrium,17462640,,,
+GSE109027,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",21,,Diffuse Large B-cell Lymphoma (DLBCL),Samples from DLBCL patients were used for gene expression profiling,,,,
+GSE134045,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",21,Digoxin; Digitoxigenin; Fenbendazole; Mebendazole; Etoposide; Irinoteca; Cytarabine; Trifluridine; SAHA; TSA; and Valproic-Acid,glioblastoma,Glioblastoma tumor propagating cells,31637999,,,
+GSE85180,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",21,Troglitazone and rosiglitazone; as well as other hepatotoxins (nefazodone; ibufenac; and tolcapone),Drug-induced liver injury,Micropatterned co-cultures (MPCCs) containing primary human hepatocytes (PHH) colonies and 3T3-J2 fibroblast,,,,
+GSE58375,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",21,Smoothened inhibitors,Basal cell carcinoma,Skin,25759020,,,
+GSE10145,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,21,Azacytidine,,MCF7 cells (breast cancer cell line),18322535,,,
+GSE185623,GPL18573; GPL19057,Illumina NextSeq 500 (Homo sapiens & Mus musculus),20,,,,,,,
+GSE198701,GPL13158,"Affymetrix HT HG-U133+ PM Array Plate",20,Carboplatin (CBP),High-Grade Ovarian Carcinoma (HGOC),Ovary,,,,
+GSE143007,GPL23159,[Clariom_S_Human] Affymetrix Clariom S Assay; Human (Includes Pico Assay),20,prexasertib,,a cell line panel representing multiple tumor types,32076484,,,
+GSE122404,GPL16686,Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],20,BET-bromodomain inhibitor JQ1,MYC-driven medulloblastoma,medulloblastoma cell lines,31160565,,,
+GSE12968,GPL96,Affymetrix Human Genome U133A Array,20,LGD-4665 and eltrombopag (small molecule TPO mimetics),,Human bone marrow CD34+ cells,,,,
+GSE87006,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",20,Palbociclib,Breast cancer,Breast cancer cell lines,28566333,,,
+GSE78142,GPL18573; GPL11154,Illumina NextSeq 500 (Homo sapiens); Illumina HiSeq 2000 (Homo sapiens),20,MLL1 protein,,senescence-associated secretory phenotype (SASP),26833731,,,
+GSE44392,GPL6244,Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],20,edelfosine,,human CD4+ T cells,24667731,,,
+GSE24547,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",20,Danusertib,Ovary; breast; and colon carcinoma,Tumor cell lines (A2780; MCF-7; MDA-MB-468; HCT116; and Colo205),21914463,,,
+GSE20568,GPL10117,UHN_human_single-spotted 19k cDNA array_version 8,20,,Alcohol abuse and nicotine addiction,Human nucleus accumbens,20477762,,,
+GSE3929,GPL96; GPL8300,Affymetrix Human Genome U133A Array; [HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array,20,Anthracycline (daunorubicin or doxorubicin),Gastric; pancreatic; colon; and breast cancer cell lines,,20010949,,,
+GSE12860,GPL96,Affymetrix Human Genome U133A Array,20,azathioprine; sodium aurothiomalate; chloroquine phosphate; methotrexate; non-steroidal anti-inflammatory drugs (NSAIDs) such as piroxicam and diclofenac; and steroidal anti-inflammatory drugs (SAIDs) such as methylprednisolone and prednisolone,the role of chondrocytes in rheumatoid arthritis-related cartilage destruction and antirheumatic drug-related regenerative processes,human chondrocytes cultured in alginate beads,19192274,,,
+GSE6692,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,20,Interferon Beta 1a,Relapsing-Remitting Multiple Sclerosis,lymphocytes,,,,
+GSE225278,GPL11154,Illumina HiSeq 2000 (Homo sapiens),19,village cultures of human induced pluripotent stem cells (hiPSCs),population-scale studies,single-cell RNA sequence data from hiPSC lines cultured independently (uni-culture) and in villages at three independent sites,,,,
+GSE85548,GPL19886,NanoString Prognostic Liver Signature (PLS) panel (186 genes; ver.1),19,Prognostic Liver Signature profiles in biopsy,,chronic hepatitis C patients followed for fibrosis progression,34951993,,,
+GSE136725,GPL23227,BGISEQ-500 (Homo sapiens),19,Bortezomib,Multiple Myeloma,B cell maturation antigen (BCMA) positive cells; MM cell line MM1.S; and xenograft MM mouse models,33250513,,,
+GSE138832,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",19,tumor necrosis factor-related apoptosis-inducing ligand (TRAIL),,HeLa cells (human cervical cancer cell line),33099406,,,
+GSE91079,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version),19,Abatacept,Rheumatoid Arthritis,Blood,32760165,,,
+GSE150949,GPL20795,HiSeq X Ten (Homo sapiens),19,Osimertinib,Lung cancer,PC9 cells,34381210,,,
+GSE114976,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",19,,,human embryonic stem cells differentiated into atrial or ventricular cardiomyocytes,30686581,,,
+GSE70169,GPL10558; GPL16244,Illumina HumanHT-12 V4.0 expression beadchip; Agilent-016322 Yeast (V2) Gene Expression 8x15K Microarray (Probe Name version),19,DFNA5 gene,autosomal dominant hearing loss and is also a tumor suppressor gene involved in frequent forms of cancer,human cell lines and Saccharomyces cerevisiae as models,26236191,,,
+GSE66495,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,19,gene expression patterns,organ-specific metastatic cells derived from the MDA-MB-231 breast cancer cell line,human breast cancer cell line MDA-MB-231,,,,
+GSE7890,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",19,keloid,dermis,hydrocortisone,17989729,,,
+GSE7890,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",19,keloid,dermis,hydrocortisone,17989729,,,
+GSE222202,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,prognosis and potential responses,molecular profiling of colorectal cancer,targeted and immunotherapies,,,,
+GSE188527,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,recapitulate key components of CCA tumor biology; including transcriptome profiles; migration patterns; EMT; and ECM protein production,decellularization to study the role of epithelial tumor cells in ECM deposition and desmoplasiaproliferation; survival; and migration; through a multi-omics approach,proliferation; survival; and migration; through a multi-omics approach,,,,
+GSE160742,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",18,S63845 resistance mechanism,,,,,,
+GSE202714,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",18,transcriptomic and proteomic changes,potential targets for drug development for cardiac fibrosis,activated cardiac fibroblasts from different sources,36531712,,,
+GSE175483,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,Prednisolone,Childhood acute lymphoblastic leukemia (ALL),ALL cell lines,36028659,,,
+GSE168987,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",18,CHK1 inhibitor Prexasertib and Gemcitabine,Cancer,Retina-pigment epithelial (RPE-hTERT) cells and bladder cancer cell line (UM-UC-3),35393546,,,
+GSE198887,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",18,Cisplatin,,a cell culture of human origin based on the organism,35399185,,,
+GSE166186,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",18,Elafibranor,Non-alcoholic steatohepatitis (NASH),Hepatic in vitro models including human skin stem cell-derived hepatic progenitors (hSKP-HPC); primary human hepatocytes (PHH) and HepaRG cells.,35269515,,,
+GSE163556,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",18,Idebenone and Bezafibrate,,Human induced pluripotent stem cell (hiPSC)-derived neural stem cells (NSC); early neural progenitors (eNP); and neural progenitors (NP).,,,,
+GSE166256,GPL11154,Illumina HiSeq 2000 (Homo sapiens),18,,,Primary human hepatocytes (PHH) cultured in a 3D printing-based alginate microwell system or a commercially available perfused bioreactor; with biophysical and biochemical microenvironment cues modulated using synthetic extracellular matrix (ECM) hydrogel scaffolds and a defined set of growth factors and signaling modulators.,,,,
+GSE176520,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,PTC-028,Fusion-positive rhabdomyosarcoma (FP-RMS),FP-RMS cell lines Rh28 and Rh30.,,,,
+GSE164088,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,Olaparib and Niraparib (PARP inhibitors),Ovarian cancer,Primary cancer-associated fibroblasts (CAFs) derived from ovarian cancer patients.,34108603,,,
+GSE153871,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,Cytarabine,,U2OS cells (a human bone osteosarcoma epithelial cell line),34716195,,,
+GSE164813,GPL15207,"[PrimeView] Affymetrix Human Gene Expression Array",18,JQ1,lung adenocarcinoma,human lung adenocarcinoma cell lines,33712563,,,
+GSE123250,GPL21290,"Illumina HiSeq 3000 (Homo sapiens)",18,BET inhibitor,liver cancer,liver (HepG2 and Hep3B cells),33667649,,,
+GSE143561,GPL20301,Illumina HiSeq 4000 (Homo sapiens),18,hypothesis,generating mRNA profiles,,33558336,,,
+GSE163906,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",18,Carfilzomib,Glioblastoma,Glioblastoma stem cells (GSCs),33428749,,,
+GSE156445,GPL17586,Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],18,aqeuous extract of Cissampelos pareira,molecular mechanism of action of this Ayurvedic mono-herbal formulation,MCF7 cell lines treated with three doses of the extract and one vehicle control,34635729,,,
+GSE155241,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,imatinib; mycophenolic acid (MPA); and quinacrine dihydrochloride (QNHC),COVID-19,Lung and colonic organoids derived from human pluripotent stem cells (hPSC-LOs and hPSC-COs),33116299,,,
+GSE151090,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),18,Verteporfin (VP),Human nucleus pulposus,Human nucleus pulposus cells,33392449,,,
+GSE129693,GPL8737; GPL16791        ,Agilent-021529 Human CGH Whole Genome Microarray 1x1M (G4447A) (Probe Name version); Illumina HiSeq 2500 (Homo sapiens),18,Cisplatin,Platinum-resistant epithelial tumors (including lung and ovarian tumors),Lung and ovarian paired cisplatin-sensitive/resistant cell lines; primary tumors; and control samples,32224864,,,
+GSE118565,GPL18573,Illumina NextSeq 500 (Homo sapiens),18,CX-5461; I-BET151; and doxorubicin,Acute Myeloid Leukemia (AML),MV4-11 AML cell line,,,,
+GSE121049,GPL16791,Illumina HiSeq 2500 (Homo sapiens),18,Tri-mannose grafting of chitosan nanocarriers,bacterial infection,Macrophages,30683129,,,
+GSE110369,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,18,Doxorubicin or Nutlin-3,PHA-stimulated human T-lymphocytes,PHA-stimulated human T-lymphocytes cell,30107566,,,
+GSE117160,GPL11154; GPL18573        ,"Illumina HiSeq 2000 (Homo sapiens); Illumina NextSeq 500 (Homo sapiens)
+",18,Clofazimine,Multiple myeloma and prostate cancer,Human multiple myeloma MM1S cells and human normal fibroblasts WI38 cells,30198908,,,
+GSE116810,GPL16791,Illumina HiSeq 2500 (Homo sapiens),18,Selinexor,Mantle cell lymphoma (MCL),MCL cell lines and primary MCL tumors,33570628,,,
+GSE95625,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],18,sodium stibogluconate,visceral leishmaniasis,patients samples,,,,
+GSE92624,"
+GPL16699",Agilent-039494 SurePrint G3 Human GE v2 8x60K Microarray 039381 (Feature Number version),18,Imatinib,Chronic myelogenous leukemia (CML),Chronic myelogenous leukemia (CML),29429960,,,
+GSE76092,GPL21253,HumanV2 GE 8x60K Microarrays; Agilent design ID: 039494 (original references: GPL19775 and GPL19773),18,Curcumin and oxaliplatin,Colorectal cancer,Colorectal cancer-derived cell lines,27091625,,,
+GSE83297,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],18,Aminaphtone,chronic venous insufficiency (CVI),ECV304 endothelial cells,27083548; 27508230,,,
+GSE29763,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,18,mifepristone,ovarian cancer,ovarian cancer cell lines,27233943,,,
+GSE16424,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,18,Cisplatin,Ovarian cancer,SK-OV-3 ovarian cancer cells,16731744,,,
+GSE2189,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,18,motexafin gadolinium (MGd),lung cancer,Human lung cancer (A549),15867382,,,
+GSE184242,GPL20301,Illumina HiSeq 4000 (Homo sapiens),17,AZD5153,Diffuse large B-cell lymphoma (DLBCL),Diffuse large B-cell lymphoma (DLBCL),,,,
+GSE183893,GPL21290,Illumina HiSeq 3000 (Homo sapiens),17,PORCN inhibitor ETC-159,RNF43-mutant pancreatic adenocarcinoma,HPAF-II cells (orthotopic xenografts),35536676,,,
+GSE147971,GPL15207,[PrimeView] Affymetrix Human Gene Expression Array,17,Topotecan,Neuroblastoma,neuroblastoma cell lines,,,,
+GSE24946,GPL11118,HIS/SIBS Human 15K cDNA array,17,AMN107 and ATO,human leukemia,human leukemia cell line K562 offspring,23883479,,,
+GSE8565,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,17,Argyrin A,colon cancer,colon cancer xenografts,18598941,,,
+GSE178267,GPL16791,Illumina HiSeq 2500 (Homo sapiens),16,Vemurafenib,BRAFV600E Positive Thyroid Cancer cell,BRAFV600E+ thyroid cancer cell lines 8505C and WRO,36790391,,,
+GSE196065,GPL18573,Illumina NextSeq 500 (Homo sapiens),16,Macitentan,High-grade serous ovarian cancer,Patient-derived primary cultures of HG-SOC cells (PMOV10),36604418,,,
+GSE214342,GPL21290,Illumina HiSeq 3000 (Homo sapiens),16,combination chemotherapy,SCLC,SCLC cell lines,36509998,,,
+GSE122739,GPL16791; GPL17021; GPL22245,"Illumina HiSeq 2500 (Homo sapiens); Illumina HiSeq 2500 (Mus musculus); Illumina HiSeq 2500 (Homo sapiens; Mus musculus)
+",16,Ibrutinib,Mantle cell lymphoma (MCL),Lymphoma cells and stromal cells,32370190,,,
+GSE116192,GPL16791,Illumina HiSeq 2500 (Homo sapiens),16,Cisplatin,Lung adenocarcinoma,cisplatin resistant (A549/cDDP) cells and their parental cell line,,,,
+GSE161235,GPL21697,NextSeq 550 (Homo sapiens),16,RITA and GANT61,Rhabdomyosarcoma,Mouse xenograft tumors of human Rh36 cells,,,,
+GSE136039,GPL17586,[HTA-2_0] Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],16,Rhein,Cardiac fibrosis ,Human ventricular cardiac fibroblasts,32184434,,,
+GSE106609,GPL9115,Illumina Genome Analyzer II (Homo sapiens),16,cisplatin,ovarian cancer,SK-OV-3 ovarian cancer cells,,,,
+GSE93112,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],,Azacitidine,AML,AML cell lines,30584089,,,
+GSE72905,GPL13607,Agilent-028004 SurePrint G3 Human GE 8x60K Microarray (Feature Number version),16,ruthenium(II)-arene complex,solid tumors,HeLa cells,,,,
+GSE40080,GPL5175,[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [transcript (gene) version],16,imatinib,gastrointestinal stromal tumor,GIST cells,23372733,,,
+GSE34112,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,16,NO-sulindac,prostate cancer,prostate cancer cells,,,,
+GSE12791,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,16,Bexarotene (LGD1069; Targretin); Paclitaxel,Breast cancer,MDA-MB-231 cells,21737656,,,
+GSE4090,GPL3386,SHGB,16,Colchicine,Rheumatic diseases,HUVEC (human umbilical vein endothelial cell line),16188942,,,
+GSE202536,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,15,doxorubicin,triple negative breast cancer,CAL51 cells,,,,
+GSE212470,GPL21697; GPL24676,"NextSeq 550 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens)
+",15,DNA topoisomerase 1 (TOP1) inhibitors,cancer, ,,,,
+GSE202687,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),15,Arginine Deprivation plus Nivolumab and Ipilimumab,Metastatic Uveal Melanoma,,35681616,,,
+GSE199455,GPL11154,Illumina HiSeq 2000 (Homo sapiens),15,Fedratinib,AML,leukemia cell,35618837,,,
+GSE184168,GPL20795,HiSeq X Ten (Homo sapiens),15,Enzalutamide and Decitabine,prostate cancer,Prostate cancer cells,34728570,,,
+GSE102038,GPL18573,Illumina NextSeq 500 (Homo sapiens),15,Dexamethasone,ALL,CEM-C1 and CEM-C7),,,,
+GSE124963,GPL18573,Illumina NextSeq 500 (Homo sapiens),15,Dihydroergotamine (DHE),AML,MOLM-14 human AML cells,32071334,,,
+GSE122860,GPL19956,NanoString nCounter human PanCancer Pathways Panel,15,hymoquinone (TQ); 5-Fluorouracil (5-FU); Combination of the individual compounds (Combi) and the Hybrid compound (SARB),colorectal cancer,HCT116 colorectal cancer cells,31097715,,,
+GSE100192,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],15,T-DM1,breast cancer,BT474,28687619,,,
+GSE16480,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,15,Roscovitine (CDK inhibitor),Neuroblastomas,Neuroblastoma cells with MYCN amplification and overexpression,19525400; 25315710,,,
+GSE6728,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,15,NMD inhibition,Mantle Cell Lymphoma,Mantle Cell Lymphoma cell lines,17332242,,,
+GSE201437,GPL16791,Illumina HiSeq 2500 (Homo sapiens),14,Physiological Calcium Combined with Electrical Pacing,Maturation of Human Engineered Heart Tissue,engineered heart tissues (EHTs),35931080,,,
+GSE87875,GPL15207,[PrimeView] Affymetrix Human Gene Expression Array,14,Withanolide F,Cancers of the colon,Cancers of the colon,27973612,,,
+GSE82329,GPL16791,Illumina HiSeq 2500 (Homo sapiens),14,Drug: BET bromodomain inhibitors (BETi),Ovarian carcinoma (OC),Ovarian carcinoma cell lines,27452461,,,
+GSE66539,GPL11154,Illumina HiSeq 2000 (Homo sapiens),14,Vemurafenib,metastatic melanoma,patient derived xenografts (PDX),30286710; 27320919,,,
+GSE61544,GPL11154,Illumina HiSeq 2000 (Homo sapiens),14,BRAF pathway inhibitors (e.g.; vemurafenib) and AXL inhibitors,Melanoma,Melanoma cell lines and biopsies from vemurafenib-resistant patients,25502142,,,
+GSE40885,GPL570,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array,14,Lipopolysaccharide (LPS),Lung diseases,Human alveolar macrophages,22952057,,,
+GSE27255,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],14,mTOR inhibitor Rapamycin; HIV protease inhibitor Nelfinavir; and small molecule Akt inhibitor MK-2206.,Diffuse Large B-Cell Lymphoma (DLBCL),DLBCL cell lines,22338016,,,
+GSE18331,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array
+",14,Inhibitors of the phosphatidylinositol-3-kinase pathway and histone deacetylase inhibitor valproic acid.,Aggressive breast cancer,Breast cancer pleural effusion samples from triple-negative patients,21772261,,,
+GSE161584,GPL18573,Illumina NextSeq 500 (Homo sapiens),14,Erlotinib; Cetuximab; and Trastuzumab,Lung cancer,PC9 xenograft tumors in a lung cancer model,33660397,,,
+GSE119397,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],13,trastuzumab,HER2 positive breast cancer,HER2 positive breast cancer cells,30928382; 30952871,,,
+GSE96636,GPL13497,Agilent-026652 Whole Human Genome Microarray 4x44K v2 (Probe Name version),13,FK866,T cell acute lymphoblastic leukemia; breast cancer,CCRF-CEM cells; MDA MB231 cells ,29541451,,,
+GSE58700,GPL18850,[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array [Version 14],13,various commercially available compounds targeting proteins in the ErbB2 signaling pathway,breast cancer,HER2 positive breast cancer cell lines,,,,
+GSE215801,GPL18573,Illumina NextSeq 500 (Homo sapiens),12,Prostaglandin E2 (PGE2),Acute myocardial infarction (AMI),Blood,36526599,,,
+GSE198860,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),12,AAT,Ischemic cholangiopathy,Human intrahepatic cholangiocyte organoids,36608526,,,
+,GPL16791,Illumina HiSeq 2500 (Homo sapiens),,Multikinase inhibitors (TKIs),hepatocellular carcinoma,HCC cell lines,36275751,,,
+GSE171883,GPL18573; GPL21185; GPL26167,Illumina NextSeq 500 (Homo sapiens); Agilent-072363 SurePrint G3 Human GE v3 8x60K Microarray 039494 [Probe Name Version]; PromethION (Homo sapiens),12,Nintedanib,Melanoma,ECM (extracellular matrix),35156321,,,
+GSE174115,GPL20301,Illumina HiSeq 4000 (Homo sapiens),12,Small functional peptide derived from Kaposi's sarcoma-associated herpesvirus transactivator (K-Rta),Cancer (specifically targeting c-Myc protein),Leukemia cells,34857874,,,
+GSE185518,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",12,,Brown adipocyte development in humans,Pluripotent stem cells (hPSCs) differentiated into brown adipocytes,,,,
+GSE137940,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",12,Cisplatin,Lung cancer,A549 lung cancer cells,,,,
+GSE180379,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,Sodium stibogluconate,Cutaneous leishmaniasis,Whole blood transcriptomes,34609968,,,
+GSE161418,GPL20301,Illumina HiSeq 4000 (Homo sapiens),12,Pyridostatin (PDS),Breast cancer (MCF-7 cell line),Cancer cells (MCF-7 breast cancer cells),34139015,,,
+GSE178880,GPL6824,Whitehead Institute Human Operon/Qiagen v3.1 oligonucleotide array,12,Tamoxifen (TAM) and Nano-emulsions of Tamoxifen (N-TAM),,HTB-20 cells (human primary cells),,,,
+GSE176324,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),12,Bleomycin,Type 1 Diabetes (modeling pancreatic beta cell senescence),Human pancreatic islet cells,35660116,,,
+GSE150377,GPL21697,"NextSeq 550 (Homo sapiens)",12,CT913 and its metabolite CT913-M1,Ovarian cancer,BRCA1-proficient and BRCA1-deficient ovarian cancer cells,32980128,,,
+GSE151385,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",12,KMT2A-AFF1 fusion protein-mediated leukemogenesis,integration of ChIP-seq; patient RNA-seq; and CRISPR essentiality screens,human cell lines SEM or RS4;11,34088716,,,
+GSE140441,GPL18460,"Illumina HiSeq 1500 (Homo sapiens)",12,effects of BMP4 and EGFR,chemotherapy,glioma stem cells,32788653,,,
+GSE154146,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,5-FU (fluorouracil),cancer,HCT116 cells (human colorectal carcinoma cell line),33591310,,,
+GSE148682,GPL24324,[Clariom_S_Human_HT] Affymetrix Clariom S Assay HT; Human (Includes Pico Assay),12,Domperidone; Imipramine; Niclosamide ethanolamine (NEN); Paclitaxel (mentioned as standard-of-care chemotherapy),cancer,HCT116 cells (human colorectal carcinoma cell line),33665961,,,
+GSE149940,GPL4133,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Feature Number version),12,poly-ADP ribose polymerase inhibitors (PARPIs); olaparib; niraparib,high-grade serous ovarian cancer (HGSOC),ascites-derived primary cell cultures (AsPCs) from EOC patients.,33213473,,,
+GSE147626,GPL11154; GPL20301,Illumina HiSeq 2000 & 4000 (Homo sapiens),12,,,Cell lines (U-87 MG and HCT116),32571799,,,
+GSE140258,GPL17586,[HTA-2_0] Affymetrix Human Transcriptome Array 2.0 [transcript (gene) version],12,Talazoparib (PARP inhibitor),Colorectal cancer,Colorectal cancer cell lines,32799124,,,
+GSE137535,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,Dexamethasone; SH4-54 (STAT3 inhibitor),Breast cancer,MDA-MB-231 breast cancer cell line,32816914,,,
+GSE137524,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,Cetuximab (anti-EGFR therapy); JQ1 (inhibitor of alternative receptor tyrosine kinases),Head and neck squamous cell carcinoma (HNSCC),HNSCC cell lines,32362655,,,
+GSE140077,GPL20795,HiSeq X Ten (Homo sapiens),12,gemcitabine,pancreatic cancer,human pancreatic cancer cell lines,31823522,,,
+GSE136420,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",12,,Breast cancer and prostate cancer,Breast cancer cell lines (MCF7 and MDA-MB-231),31959131,,,
+GSE135095,GPL10999; GPL10999; GPL11154,Illumina Genome Analyzer IIx (Homo sapiens); Illumina HiSeq 2000 (Homo sapiens; Trichophyton rubrum),12,Terbinafine,Fungal infection (specifically Trichophyton rubrum),Human keratinocytes (HaCat cell line),31795354,,,
+GSE130903,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,Palbociclib,Early stage breast cancer (ductal carcinoma in situ and invasive disease),Human breast cancer cells and mouse mammary tumors.,31451564,,,
+GSE128191,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),12,Nutlin3a,,Human neural crest cells and smooth muscle cells,31178404,,,
+GSE101176,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,Endometriosis,Endometrial stromal cells,,,,
+GSE126484,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Elafibranor,Non-alcoholic steatohepatitis (NASH),Human skin-derived precursors (hSKP-HPC),35269515,,,
+GSE131841,GPL20301,Illumina HiSeq 4000 (Homo sapiens),12,,Autosomal recessive polycystic kidney disease (ARPKD),Kidney organoids (vascularized three-dimensional kidney organoids) derived from human pluripotent stem cells (hPSCs),31303547,,,
+GSE123379,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,PF-03084014,Enzalutamide-resistant prostate cancer,Prostate cancer cells (enzalutamide-sensitive and enzalutamide-resistant) from Homo sapiens.,,,,
+GSE28660,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,Pelvic organ prolapse (recurrent and primary),Uterosacral ligament (USL) tissues from Homo sapiens.,,,,
+GSE111014,GPL20301,Illumina HiSeq 4000 (Homo sapiens),12,Ibrutinib,Chronic lymphocytic leukemia (CLL),Peripheral blood mononuclear cells (PBMCs) from Homo sapiens.,31996669,,,
+GSE104908,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,Dexamethasone,Chronic inflammatory diseases,Airway epithelial cells (BEAS-2B cell lines) from Homo sapiens.,,,,
+GSE118190,GPL21290,"Illumina HiSeq 3000 (Homo sapiens)",12,ETC-159,RNF43 mutant pancreatic adenocarcinoma,HPAF-II (in vitro model),33092630; 30300142,,,
+GSE116528,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,YM155,Colorectal cancer,Human colorectal cancer cells (cell lines),33186476,,,
+GSE109731,GPL20301,Illumina HiSeq 4000 (Homo sapiens),12,Vemurafenib; Tretinoin (ATRA),Melanoma,A375 melanoma cells.,30820351,,,
+GSE112211,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,,BPDCN (Blastic plasmacytoid dendritic cell neoplasm),,29795241,,,
+GSE80305,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,PD0325901,Gastrointestinal stromal tumor (GIST),GIST882 cells,29360641,,,
+GSE99867,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,Trametinib and PLX-4720,Melanoma,melanoma cell lines,30026510,,,
+GSE82270,GPL15207,"[PrimeView] Affymetrix Human Gene Expression Array",12,THZ1 and THZ531,Ewing sarcoma,Ewing sarcoma cell lines,29358035,,,
+GSE95513,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,JQ1 and Bortezomib,Colorectal cancer,colorectal cancer cell lines (RKO and HCT116),29472532,,,
+GSE100020,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,12,Chloroquine and doxorubicin (used as cytotoxic treatment),Neuroblastoma,neuroblastoma cell line BE(2)-C grown under 2D; 3D-Staticic; and 3D-bioreactor conditions; as well as human neuroblastoma tissue samples chosen to resemble characteristics of BE(2)-C cells,28837150,,,
+GSE81360,GPL17077,Agilent-039494 SurePrint G3 Human GE v2 8x60K Microarray 039381 (Probe Name version),12,,Breast cancer,MCF7 and MCF7-HER2 breast cancer cell lines,28423511,,,
+GSE73284,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,12,Verteporfin,Prostate cancer,Human prostate cancer cells (PC3),35520391; 28098159,,,
+GSE87641,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,Vemurafenib (a RAF inhibitor),Melanoma,Human melanoma cells (COLO858 and MMACSF),28069687,,,
+GSE75793,GPL16686,Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],12,Glutaminase inhibitor (GLS inhibitor),Pulmonary hypertension,Pulmonary arterial endothelial cells (PAECs) from humans.,,,,
+GSE83120,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Erlotinib (a targeted cancer therapy),Cancer,PC9 stable cell lines (human lung cancer cells) expressing GFP vector or miR-371-3p.,27484502,,,
+GSE80137,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",12,Decitabine (a DNA methyltransferase inhibitor),Glioblastoma (a type of brain cancer),Human Glioblastoma cell lines (U-87; T98G; and LNT-229),27412690,,,
+GSE80598,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,12,AP1 dimerizer drug,,THP1 cells (human monocytic leukemia cell line) expressing BFP; IFI16-2xFV; PYHIN1-2xFV; or MNDA-2xFV.,27496731,,,
+GSE48056,GPL6883,Illumina HumanRef-8 v3.0 expression beadchip,12,SMIP004,Prostate cancer; breast cancer,human cancer cell lines,23902736,,,
+GSE60602,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,HepG2 cells; which are a human hepatocellular carcinoma cell line,,,,
+GSE40007,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,endometriosis; which is an inflammatory disease affecting the endometrial tissue.,endometrial stromal cells; which are derived from the endometrial tissue of the human uterus.,,,,
+GSE44392,GPL6244,Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],12,edelfosine; which is a synthetic ether lipid and a cytotoxic drug.,,unstimulated CD4+ T cells; which are a type of immune cells derived from peripheral blood mononuclear cells (PBMCs) obtained from buffy coat,24667731,,,
+GSE56049,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,,Cockayne syndrome; which is a rare genetic disorder that affects the development and aging of various tissues and organs.,CSB-null UV-sensitive syndrome cells (UVSS1KO); which are derived from human cells and are deficient in a SWI/SNF-like ATPase enzyme called CSB.,22483866,,,
+GSE36372,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",12,β-catenin inhibitor XAV939,Acute lymphoblastic leukemia (ALL),Bone marrow stromal cells (MSCs) and ALL cell lines,23333798,,,
+GSE48785,GPL11154,Illumina HiSeq 2000 (Homo sapiens),12,Bortezomib,Myeloma,Myeloma cells (MM1.S),24171104,,,
+GSE32569,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Cediranib,Metastatic Alveolar Soft Part Sarcoma (ASPS),Tumor biopsies from patients with ASPS.,23630200,,,
+GSE32569,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Cediranib,Metastatic Alveolar Soft Part Sarcoma (ASPS),Tumor biopsies from patients with ASPS.,23630200,,,
+GSE43452,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,12,FAK inhibitor Y15; Temozolomide,Glioblastoma,Brain (specifically glioblastoma cells),23387973,,,
+GSE43452,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,12,FAK inhibitor Y15; Temozolomide,Glioblastoma,Brain (specifically glioblastoma cells),23387973,,,
+GSE39002,GPL6947,"Illumina HumanHT-12 V3.0 expression beadchip",12,Genkwanine M (GENK),,Liver (Huh-7 cell line),,,,
+GSE31075,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Intestinal epithelial cells (sloughed off in stool samples) of full-term 3-month-old infants.,22546241,,,
+GSE36007,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,Ewing family of tumors,A673 cells derived from Ewing sarcoma (cell line),23750284; 18591936,,,
+GSE26326,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,Atherosclerosis,Macaca fascicularis (cynomolgous monkey),Iliac artery,23760433; 21646924,,,
+GSE27354,GPL11094,[GLYCOv2a520086F] Custom Affymetrix Glyco v2 GeneChip,12,Metastatic breast cancer,,4T1 mouse metastatic breast cancer cell line,,,,
+GSE3926,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,12,Anthracycline (doxorubicin or daunorubicin),Gastric; pancreatic; colon; and breast cancer,Human tumor cell lines (gastric; pancreatic; colon; and breast origin) and their counterparts resistant to anthracyclines (daunorubicin or doxorubicin),20010949,,,
+GSE19136,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Paclitaxel,Cardiovascular disease,Human left internal mammary artery (LIMA),,,,
+GSE19136,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Paclitaxel,Cardiovascular disease,Human left internal mammary artery (LIMA),,,,
+GSE13736,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,,Staphylococcus aureus infection,Human umbilical vein endothelial cells (HUVEC),19845532,,,
+GSE13736,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,,Staphylococcus aureus infection,Human umbilical vein endothelial cells (HUVEC),19845532,,,
+GSE13525,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Carboplatin,Epithelial ovarian cancer (EOC),36M2 ovarian cancer cells (in vitro),19038057,,,
+GSE13525,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Carboplatin,Epithelial ovarian cancer (EOC),36M2 ovarian cancer cells (in vitro),19038057,,,
+GSE11467,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,12,Estrogen (E2) and Tumor necrosis factor alpha (TNFa),Breast cancer,MCF-7 breast cancer cells (in vitro),19920189,,,
+GSE9490,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,Homocysteine,Atherosclerotic vascular disease,Human aortic smooth muscle cells (AoSMC),18602108,,,
+GSE9490,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,Homocysteine,Atherosclerotic vascular disease,Human aortic smooth muscle cells (AoSMC),18602108,,,
+GSE12211,GPL571,"[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array",12,Imatinib/Glivec,Chronic myelogenous leukemia (CML),Philadelphia Chromosome positive (Ph+) CD34+ cells from peripheral blood of CML patients,19052557,,,
+GSE12211,GPL571,"[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array",12,Imatinib/Glivec,Chronic myelogenous leukemia (CML),Philadelphia Chromosome positive (Ph+) CD34+ cells from peripheral blood of CML patients,19052557,,,
+GSE10123,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,mutant protein,Hutchinson-Gilford Progeria Syndrome (HGPS),hTERT-immortalized skin fibroblast cell line.,18311132,,,
+GSE10123,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,mutant protein,Hutchinson-Gilford Progeria Syndrome (HGPS),hTERT-immortalized skin fibroblast cell line.,18311132,,,
+GSE7626,GPL5121,DKFZ/Operon Human 11K Oligo Set v2.1,12,Mycophenolic acid (MPA),Potential wound healing problems post transplantation in renal transplant recipients,Human dermal fibroblasts and skin biopsies of renal transplant recipients,18786225,,,
+GSE6960,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Water-soluble zinc ionophores,Cancer; specifically A549 lung cancer cells,A549 human lung cancer cells,18593933,,,
+GSE6400,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Sapphyrin PCI-2050 and actinomycin D,Cancer; specifically A549 lung cancer cells,A549 human lung cancer cells,17233922,,,
+GSE6400,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",12,Sapphyrin PCI-2050 and actinomycin D,Cancer; specifically A549 lung cancer cells,A549 human lung cancer cells,17233922,,,
+GSE4846,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Daudi cells (a human B lymphoblastoid cell line),,,,
+GSE4812,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,AICAR (5-aminoimidazole-4-carboxamide ribonucleotide),,Daudi cells (a human B lymphoblastoid cell line) stimulated with anti-CD40 and/or IL-4 for 6 hr with or without AICAR pretreatment.,,,,
+GSE5216,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Saos2 Tet-Off cells with induced overexpression of GAS41; a cofactor of the general transcription factor IIF,,,,
+GSE5216,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Saos2 Tet-Off cells with induced overexpression of GAS41; a cofactor of the general transcription factor IIF,,,,
+GSE4106,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Jurkat cells (a human T cell leukemia cell line) were exposed to nanosecond pulsed electric fields; and the gene expression profiles before; 30min and 60min after exposure were surveyed.,,,,
+GSE4106,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,12,,,Jurkat cells (a human T cell leukemia cell line) were exposed to nanosecond pulsed electric fields; and the gene expression profiles before; 30min and 60min after exposure were surveyed.,,,,
+GSE3992,GPL3332,SHEJ,12,,Hepatitis B viral gene expression,HepG2.2.15 or PLC/PRF/5 cells (human liver cancer cell lines) were used in this experiment.,15316660,,,
+GSE171853,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",12,Imatinib and ISRIB,Chronic Myeloid Leukemia (CML),Patient derived xenograft (PDX) model mice with CML cells,,,,
+GSE207456,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),12,,Mycobacterium abscessus infection.,Human pluripotent stem cell-derived macrophages.,35985333,,,
+GSE174740,GPL20301,Illumina HiSeq 4000 (Homo sapiens),11,Rapta-C; erlotinib; metformin and parthenolide,sunitinib-resistant renal cell carcinoma,human Caki-1 cell line,34439134,,,
+GSE114462,GPL16791,"Illumina HiSeq 2500 (Homo sapiens)",11,,cancer,human cancer cell lines,30089904,,,
+GSE100669,GPL11154,Illumina HiSeq 2000 (Homo sapiens),11,,Triple-negative breast cancer (TNBC),Patient-derived xenograft (PDX) models of TNBC clinical biopsy specimens were used in the study,28039356,,,
+GSE84863,GPL11154,Illumina HiSeq 2000 (Homo sapiens),11,Methyl-methanesulfonate (MMS); etoposide; paclitaxel; and doxorubicin were used in the study.,The study used MDA-MB231 breast cancer and U2OS osteosarcoma cell lines.,The experiment was performed in vitro on cultured cells; specifically MDA-MB231 breast cancer and U2OS osteosarcoma cells.,27638861,,,
+GSE61905,GPL17930,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [HuGene20stv1_Hs_ENTREZG_17.0.0],11,Thiopurine agent 6-mercaptopurine (6-MP) was used in the study.,The study focused on thiopurine resistance in the context of acute lymphoblastic leukemia (ALL).,Lymphoblastoid cell lines (LCLs) were used in the experiment to establish a transcriptomic signature of genes associated with thiopurine resistance.,26015807,,,
+GSE54483,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",11,FOLFIRI (folinic acid; fluorouracil; and irinotecan) was used in the study.,colorectal cancer (CRC),Samples from patients with CRC,25375918,,,
+GSE52036,GPL15433,Illumina HiSeq 1000 (Homo sapiens),11,,Aryl hydrocarbon receptor (AHR),Human breast cancer MCF-7 cells,24971714,,,
+GSE30732,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],11,,human pancreatic beta cells,Human pancreatic beta cells,21984932,,,
+GSE30732,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],11,,human pancreatic beta cells,Human pancreatic beta cells,21984932,,,
+GSE29136,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,11,Prednisolone and MG132,Lymphoblastic leukemia,CCRF-CEM cells (human lymphoblastic leukemia cell line),22273806,,,
+GSE21901,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",11,Cocaine,Addiction,Dorsal striatum (in rats and humans),20613834,,,
+GSE17470,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,11,,Non-alcoholic steatohepatitis (NASH),Liver (human),20221393,,,
+GSE15602,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",11,Adalimumab,Rheumatoid arthritis (RA),Synovial biopsies (human),19389237,,,
+GSE180764,GPL20301,Illumina HiSeq 4000 (Homo sapiens),10,RARg agonist,Osteochondroma,Osteochondroma explants (human),,,,
+GSE163161,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),10,Clozapine,Schizophrenia (Clozapine is an antipsychotic medication used for the treatment of schizophrenia),Excitatory cortical neurons derived from induced pluripotent stem cells (iPSCs),33681435; 33497908,,,
+GSE160435,GPL24676; GPL29320	,Illumina NovaSeq 6000 (Homo sapiens; Severe acute respiratory syndrome coronavirus 2),10,Remdesivir,COVID-19,Human lung organoid,33905739,,,
+GSE158767,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),10,,tuberculosis lesions in sputum-negative tuberculosis patients.,Lung tissues with high and low metabolic activity were collected from sputum-negative tuberculosis patients for RNA sequencing to identify potential long non-coding RNA (lncRNA) indicators of metabolic activity in tuberculosis lesions.,,,,
+GSE149224,GPL20301,Illumina HiSeq 4000 (Homo sapiens),10,5-Fluorouracil (5FU),colon cancer,three colon cancer cell lines: RKO; HCT116; and SW480.,32846134,,,
+GSE144232,GPL16791,Illumina HiSeq 2500 (Homo sapiens),10,Cisplatin was used to treat ovarian cancer cells.,ovarian cancer,Ovarian cancer cells,32589792,,,
+GSE125404,GPL23159,[Clariom_S_Human] Affymetrix Clariom S Assay; Human (Includes Pico Assay),10,,liver metastatic colonization of colorectal cancer,colorectal cancer metastases and healthy colon and liver tissues,,,,
+GSE140172,GPL11154,Illumina HiSeq 2000 (Homo sapiens),10,Pimasertib; a MEK inhibitor,Non-small cell lung cancer,two non-small cell lung cancer cell lines.,32640215,,,
+GSE118179,GPL21290,Illumina HiSeq 3000 (Homo sapiens),10,ETC-159; a PORCN inhibitor,Pancreatic adenocarcinoma (PDAC) with RNF43 mutation,subcutaneous model of PDAC (HPAF-II).,33092630; 30300142,,,
+GSE60540,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,10,Everolimus; an mTOR inhibitor,Relapsed/Refractory Acute Lymphoblastic Leukemia,Peripheral blood,,,,
+GSE86861,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",10,,Breast cancer,MDA-MB-231 cells (a breast cancer cell line),29321622,,,
+GSE62375,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,10,Rapamycin (used to test the effects of drug treatment),age-associated changes in immune cells in general,Peripheral blood mononuclear cells (PBMCs),25553802,,,
+GSE55583,GPL6480,Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version),10,BRAF inhibitors (PLX4032 was specifically mentioned in the summary),Melanoma,Melanoma cell lines,24865425,,,
+GSE54255,GPL13158,[HT_HG-U133_Plus_PM] Affymetrix HT HG-U133+ PM Array Plate,10,diclofenac,Drug-induced liver injury (DILI),Human liver slices,24752500,,,
+GSE35499,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,10,,Central neurocytomas (CNs); pineocytoma (PC) and pineoblastoma (PB),Human brain (tumor tissue),22816789,,,
+GSE33601,GPL9115,Illumina Genome Analyzer II (Homo sapiens),10,,Localized cutaneous leishmaniasis (LCL); mucosal leishmaniasis (ML),Human skin lesions caused by Leishmania braziliensis infection,23029578,,,
+GSE10064,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,10,,Multiple sclerosis,B-lymphocytes,18237449,,,
+GSE7114,GPL8300,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array,10,Cyclophosphamide (CP),Chronic myelogenous leukemia (CML),CML cell line.,17403535,,,
+GSE7114,GPL8300,[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array,10,Cyclophosphamide (CP),Chronic myelogenous leukemia (CML),CML cell line.,17403535,,,
+GSE206434,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),9,,the pathophysiology of respiratory diseases that involve ASMCs; such as asthma.,human airway smooth muscle cells (hASMCs).,36835223,,,
+GSE180343,GPL21290; GPL24676	,Illumina HiSeq 3000 (Homo sapiens); Illumina NovaSeq 6000 (Homo sapiens),9,,Pterygium; an ocular surface disorder.,Human conjunctival tissue (hCjSCs); immune cells; and vascular cells were used to create the 3D in vitro pterygium model.,,,,
+GSE180338,GPL11154,Illumina HiSeq 2000 (Homo sapiens),9,PI3K/AKT/mTOR inhibitors,NF2-associated schwannoma; a rare disease characterized by the development of multiple intracranial schwannomas.,Human schwannoma tissue,,,,
+GSE197445,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",9,PTH-lowering drugs,Parathyroid diseases; specifically hyperplastic parathyroid tissue,Parathyroid tissue,36306782,,,
+GSE187420,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",9,IMD-0354,COVID-19,Calu-3 cells (human lung adenocarcinoma cell line),36093376,,,
+GSE195642,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),9,Gentamicin,Nephrotoxicity (specifically drug-induced),Renal organoids (derived from human pluripotent stem cells),35243244,,,
+GSE181538,GPL30481,NanoString Prognostic Liver Signature (PLS) plus liver fibrosis panel (186-gene PLS + 24-gene extension),9,Various anti-fibrotic agents,Liver fibrosis (specifically HCV-infected patients with F2 fibrosis),Snap-frozen surgical liver tissue (cultured ex vivo as precision-cut liver slices),34951993,,,
+GSE179828,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),9,Defibrotide,,Human umbilical vein endothelial cells (HUVECs),34264868,,,
+GSE178839,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",9,5-fluorouracil,Colorectal cancer,Cancer cells and human tumors (colorectal xenografts),35013311,,,
+GSE131823,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",9,Daunorubicin,Acute myeloid leukemia (AML),K562 cells (human myelogenous leukemia cell line),31770110,,,
+GSE128723,GPL18573,"Illumina NextSeq 500 (Homo sapiens)",9,Ivacaftor,Cystic fibrosis (CF),Peripheral blood mononuclear cells (PBMCs) from CF patients,30995102,,,
+GSE126426,GPL11154,Illumina HiSeq 2000 (Homo sapiens),9,Axitinib,Advanced renal cell carcinoma,Human umbilical vein endothelial cells (HUVEC),30967634,,,
+GSE109679,GPL14951,Illumina HumanHT-12 WG-DASL V4.0 R2 expression beadchip,9,PI3K inhibitor and CDK4/6 inhibitor,Lung squamous cell carcinoma (LUSC),Patient-derived xenografts (PDX) from LUSC,30093452,,,
+GSE122041,GPL21290,Illumina HiSeq 3000 (Homo sapiens),9,BRAF-inhibitors,Melanoma,,29590606; 33060170,,,
+GSE106847,GPL11154,Illumina HiSeq 2000 (Homo sapiens),9,AA147 (a small molecule that activates the ATF6 pathway of the UPR),,Human pluripotent stem cells undergoing differentiation into multipotent germ layers; nascent tissues; and organs,29440509,,,
+GSE101419,GPL21290,Illumina HiSeq 3000 (Homo sapiens),9,Pictilisib (GDC-0941),Bladder cancer,Urothelial tissue of the bladder,28808038,,,
+GSE77322,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,9,Niclosamide ethanolamine (NEN),Hepatocellular carcinoma (HCC),HepG2 cells (a human hepatocellular carcinoma cell line) and tumors from patient-derived xenografts (PDX),28284560,,,
+GSE93237,GPL10999,Illumina Genome Analyzer IIx (Homo sapiens),9,7;7'-carbonylbis(azanediyl) bis(4-hydroxynaphthalene-2-sulfonic acid) (AMI-1) and disodium-2-(2;4;5;7-tetrabromo-3-oxido-6-oxoxanthen-9-yl) benzoate trihydrate (AMI-5).,,human endothelial cells (HMEC-1).,24850797,,,
+GSE84587,GPL571; GPL6244	,[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array; [HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],9,,Hepatitis C Virus (HCV),Primary human hepatocytes and human liver biopsies.,27723751,,,
+GSE60989,GPL11154,Illumina HiSeq 2000 (Homo sapiens),9,,respiratory infections and diseases,Human airway epithelial cells,26927796,,,
+GSE64550,GPL16791,Illumina HiSeq 2500 (Homo sapiens),9,PLX4720 (vemurafenib; a BRAF inhibitor) or Trametinib (a MEK inhibitor),Lung adenocarcinoma,HCC364 cells,,,,
+GSE50535,GPL11154,Illumina HiSeq 2000 (Homo sapiens),9,BRAF and MEK inhibitors,Melanoma,A375 cells (melanoma cell line) and paired biopsies,24670642,,,
+GSE39073,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],9,Dasatinib,KIT(mut) t(8;21) acute myeloid leukemia,Kasumi-1 cell line (acute myeloid leukemia cell line),24211243,,,
+GSE39073,GPL6244,[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version],9,Dasatinib,KIT(mut) t(8;21) acute myeloid leukemia,Kasumi-1 cell line (acute myeloid leukemia cell line),24211243,,,
+GSE49869,GPL16807,Illumina HumanRef-8 WG-DASL v3.0 [gene-centered version],9,Vincristine,,HL60 cells (human promyelocytic leukemia cell line),24045430,,,
+GSE16944,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,9,Rapamycin,Lymphangioleiomyomatosis (LAM),TSC2-deficient immortalized cells) and murine embryonic fibroblast cells that lack Tsc1 or Tsc2.,19395678,,,
+GSE15918,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",9,Torcetrapib,,Adrenal-derived cells (H295R and HAC15 human adrenal carcinoma cell lines),19164467,,,
+GSE15918,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",9,Torcetrapib,,Adrenal-derived cells (H295R and HAC15 human adrenal carcinoma cell lines),19164467,,,
+GSE9332,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,9,Leukotriene B4 (LTB4),Inflammation; atherosclerosis,Primary human monocytes,,,,
+GSE9332,GPL2895,GE Healthcare/Amersham Biosciences CodeLink Human Whole Genome Bioarray,9,Leukotriene B4 (LTB4),Inflammation; atherosclerosis,Primary human monocytes,,,,
+GSE216508,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",9,Osimertinib and Alpelisib,EGFR-mutant Non-Small Cell Lung Cancer (NSCLC),NCI-H1975 cells (a human lung cancer cell line),,,,
+GSE201740,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),8,Sunitinib,Retinoblastoma (RB),Patient-derived tumor organoids (from retinoblastoma patients) and human ESC-derived retinal organoids,36726110,,,
+GSE201299,GPL28038,DNBSEQ-G400 (Homo sapiens),8,Cycloleucine,Cancer,HeLa cells (human cervical cancer cell line) and Hepa1 cells (mouse hepatoma cell line),35636512,,,
+GSE211342,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],8,Sudamycin D6 (SD6),Aggressive Multiple Myeloma (MM),NCI-H929 and MM1.S cells (human myeloma cell lines) and 293T cells (human embryonic kidney cell line),,,,
+GSE176326,GPL21290,Illumina HiSeq 3000 (Homo sapiens),8,Poly (ADP-ribose) Polymerase-1 Inhibitors (PARPi) and Cisplatin,Cervical Cancer,HeLa cells (human cervical cancer cell line),35503086,,,
+GSE189499,GPL21697,NextSeq 550 (Homo sapiens),8,Tigecycline,Cancer (associated with FBXW7 deficiency and multi-drug resistance),DLD1 cells (human colorectal adenocarcinoma cells),35861150,,,
+GSE200281,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),8,Indisulam,Cancer (based on the context of the study),Panc10.05 cells (a pancreatic cancer cell line),35534224,,,
+GSE171009,GPL18573,Illumina NextSeq 500 (Homo sapiens),8,Nucleocapsid protein,COVID-19 (caused by SARS-CoV-2),HEK293 cells (a human embryonic kidney cell line),34901782,,,
+GSE173411,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),8,Tepoxalin,Drug-resistant breast cancer,Human mammary epithelial cells (HMECs),34298440,,,
+GSE139350,GPL20795,HiSeq X Ten (Homo sapiens),8,,Systemic Lupus Erythematosus (SLE),Peripheral blood mononuclear cells (PMBCs) from SLE patients and Jurkat cells.,34220794,,,
+GSE167922,GPL11154,Illumina HiSeq 2000 (Homo sapiens),8,Fentanyl,the impact of fentanyl on viral replication in cell lines,Huh7.5 and HepG2 cell lines.,33852610,,,
+GSE168888,GPL20795,HiSeq X Ten (Homo sapiens),8,5-fluorouracil (5-FU).,Colon cancer,Colon cancer cell lines HCT-8/FU and HCT-8,35151311,,,
+GSE148878,GPL570,"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array",8,Tamoxifen; Letrozole,Tamoxifen-resistant breast cancer; Endocrine-resistant estrogen receptor-positive (ER+) breast cancer,Breast cancer cell lines (MCF7),33398005,,,
+GSE150025,GPL24676,Illumina NovaSeq 6000 (Homo sapiens),8,,Non-small cell lung cancer,Lung cancer cell lines (PC9),34061819,,,
+GSE145085,GPL18573,Illumina NextSeq 500 (Homo sapiens),8,Cisplatin,Acute Kidney Injury (AKI),Human Kidney Organoids,32150447,,,
+GSE125128,GPL18573,Illumina NextSeq 500 (Homo sapiens),8,Aromatase inhibitors (AI),Endocrine resistant ERα breast cancer,Breast adenocarcinoma cell line (MCF7),31073170,,,
+GSE108382,GPL11154,Illumina HiSeq 2000 (Homo sapiens),8,Targeted BRAF inhibitors,Melanoma,Melanoma cell lines,30061114,,,
+GSE102187,GPL11154,Illumina HiSeq 2000 (Homo sapiens),8,Vorinostat,HIV,Primary CD4+ T cells,29706951,,,
+GSE102744,GPL11154,Illumina HiSeq 2000 (Homo sapiens),8,Ibrutinib,ERBB4 expressing cancer,study used cancer cell lines.,29398709,,,
+GSE106782,GPL10558,Illumina HumanHT-12 V4.0 expression beadchip,8,Interferon-Beta (IFNb),Triple Negative Breast Cancer (TNBC),Transformed human mammary epithelial cells (HMECs),29229854,,,
+GSE57119,GPL96,[HG-U133A] Affymetrix Human Genome U133A Array,8,Retinoic acid (RA),Breast cancer,T47D breast cancer cells (in vitro) with impaired RARA function,27894085,,,
+GSE77180,GPL5175,[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [transcript (gene) version],8,5-Fluorouracil (5-FU),Colorectal cancer,Colorectal cancer cell lines,28515355,,,
+GSE87874,GPL15207,[PrimeView] Affymetrix Human Gene Expression Array,8,Withanolide F,Colon Cancer,LS174T cells (Human Colon Adenocarcinoma Cell Line),27973612,,,
+GSE86274,GPL17077,Agilent-039494 SurePrint G3 Human GE v2 8x60K Microarray 039381 (Probe Name version),8,4-hydroxytamoxifen (4-OHT),,BJ normal human fibroblasts (immortalized),,,,
+GSE84908,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],8,Tacrolimus,Diabetic Nephropathy,Human mesangial cells,28060893,,,
+GSE40069,GPL9115,Illumina Genome Analyzer II (Homo sapiens),8,Genistein,Iron overload syndromes,Human hepatocytes (HepG2 cells),,,,
+GSE67318,GPL17077,Agilent-039494 SurePrint G3 Human GE v2 8x60K Microarray 039381 (Probe Name version),8,5-aza-2’-deoxycytidine,,Human liver; small intestine; and hepatoma cells.,26421064,,,
+GSE66660,GPL11532,[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version],8,Etoposide,Acute myeloid leukemia (AML),U937 cells (a human myeloid cell line),23457546,,,
+GSE138850,GPL16686,[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version],4,Lenalidomide,cancer,NK Cell,,,,
